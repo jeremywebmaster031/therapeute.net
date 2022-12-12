@@ -1,0 +1,4482 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: medicalpro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-25 15:28+0500\n"
+"POT-Revision-Date: Tue Mar 08 2020 16:05:54 GMT+0500 (Pakistan Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: cland <cland@gmail.com>\n"
+"Language-Team: Cridio <sam@gmail.com>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2;esc_html_e;"
+"esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/ajax-hooks.php:45
+msgid "Sorry! There is some problem in your stripe payment"
+msgstr ""
+
+#: include/ajax-hooks.php:53
+msgid "Sorry! Error in transaction"
+msgstr ""
+
+#: include/ajax-hooks.php:79
+msgid "Requested"
+msgstr ""
+
+#: include/ajax-hooks.php:180
+msgid "Enter Your Account Title"
+msgstr ""
+
+#: include/ajax-hooks.php:181
+msgid "John Doe"
+msgstr ""
+
+#: include/ajax-hooks.php:186
+msgid "Enter Your Account ID Or Email"
+msgstr ""
+
+#: include/ajax-hooks.php:187
+msgid "#090878601 | johndoe@example.com"
+msgstr ""
+
+#: include/ajax-hooks.php:193
+msgid "Enter Your Account Details"
+msgstr ""
+
+#: include/ajax-hooks.php:194
+msgid "EG: Bank Name Or Branch Code Or Any Special Not For Site Admin..."
+msgstr ""
+
+#: include/ajax-hooks.php:270 templates/dashboard/earnings.php:168
+msgid "Doctor"
+msgstr ""
+
+#: include/ajax-hooks.php:271 templates/dashboard/earnings.php:169
+msgid "Username"
+msgstr ""
+
+#: include/ajax-hooks.php:272 templates/dashboard/earnings.php:170
+#: templates/dashboard/earnings.php:326
+msgid "Amount"
+msgstr ""
+
+#: include/ajax-hooks.php:273 templates/dashboard/earnings.php:171
+msgid "METHOD"
+msgstr ""
+
+#: include/ajax-hooks.php:274 templates/dashboard/earnings.php:172
+msgid "web fee"
+msgstr ""
+
+#: include/ajax-hooks.php:275 templates/dashboard/earnings.php:173
+msgid "Received"
+msgstr ""
+
+#: include/ajax-hooks.php:276 include/bookings/booking-functions.php:78
+#: include/earnings/earnings-table.php:15 include/withdrawals/withdrawals.php:59
+#: templates/dashboard/booking-detail.php:101
+#: templates/dashboard/booking-detail.php:152 templates/dashboard/earnings.php:174
+#: templates/dashboard/earnings.php:316
+msgid "Date"
+msgstr ""
+
+#: include/ajax-hooks.php:348
+msgid "Issue With Pricing Plan..."
+msgstr ""
+
+#: include/ajax-hooks.php:358 include/ajax-hooks.php:369
+msgid "No Image Found In Gallery..."
+msgstr ""
+
+#: include/bookings/booking-checkout.php:23
+msgid "Sorry! Currently Free mode is activated"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:54
+msgid "Coupon Code"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:58
+msgid "Type Here"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:59
+msgid "APPLY CODE"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:65
+msgid "ITEM"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:66
+msgid "PRICE"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:69
+msgid "Pro"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:74
+msgid "Tax(Value Added Tax)"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:79
+#: templates/dashboard/booking-detail.php:167
+msgid "Total"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:101
+msgid "Terms And Conditions"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:104
+msgid "PROCEED TO NEXT"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:120
+msgid "Purchase"
+msgstr ""
+
+#: include/bookings/booking-checkout.php:252
+msgid "Date: "
+msgstr ""
+
+#: include/bookings/booking-checkout.php:254
+msgid "Category: "
+msgstr ""
+
+#: include/bookings/booking-checkout.php:301
+msgid "Sorry! No Paid booking request found"
+msgstr ""
+
+#: include/bookings/booking-functions.php:6
+msgctxt "post type general name"
+msgid "Appointments"
+msgstr ""
+
+#: include/bookings/booking-functions.php:7
+msgctxt "post type singular name"
+msgid "Booking"
+msgstr ""
+
+#: include/bookings/booking-functions.php:8
+msgctxt "admin menu"
+msgid "Appointments"
+msgstr ""
+
+#: include/bookings/booking-functions.php:9
+msgctxt "add new on admin bar"
+msgid "Booking"
+msgstr ""
+
+#: include/bookings/booking-functions.php:10
+msgctxt "review"
+msgid "Add New"
+msgstr ""
+
+#: include/bookings/booking-functions.php:11
+msgid "Add New Booking"
+msgstr ""
+
+#: include/bookings/booking-functions.php:12
+msgid "New Booking"
+msgstr ""
+
+#: include/bookings/booking-functions.php:13
+msgid "Edit Booking"
+msgstr ""
+
+#: include/bookings/booking-functions.php:14
+msgid "View Booking"
+msgstr ""
+
+#: include/bookings/booking-functions.php:15
+msgid "All Bookings"
+msgstr ""
+
+#: include/bookings/booking-functions.php:16
+msgid "Search Bookings"
+msgstr ""
+
+#: include/bookings/booking-functions.php:17
+msgid "Parent Bookings:"
+msgstr ""
+
+#: include/bookings/booking-functions.php:18
+msgid "No Bookings found."
+msgstr ""
+
+#: include/bookings/booking-functions.php:19
+msgid "No Booking found in Trash."
+msgstr ""
+
+#: include/bookings/booking-functions.php:25
+msgid "Description."
+msgstr ""
+
+#: include/bookings/booking-functions.php:70 include/reviews/reviews-form.php:153
+#: include/reviews/reviews-form.php:335
+#: shortcodes/elementor-shortcodes/edit-listing.php:36
+#: shortcodes/elementor-shortcodes/edit-listing.php:518
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:34
+#: shortcodes/elementor-shortcodes/submit-listing.php:35
+#: shortcodes/elementor-shortcodes/submit-listing.php:563
+#: shortcodes/elementor-shortcodes/submit-listing.php:566
+#: shortcodes/vc-shortcodes/edit.php:17 shortcodes/vc-shortcodes/edit.php:490
+#: shortcodes/vc-shortcodes/submit.php:18 shortcodes/vc-shortcodes/submit.php:536
+#: shortcodes/vc-shortcodes/submit.php:539
+#: shortcodes/vc-shortcodes/vc_special_elements.php:609
+msgid "Title"
+msgstr ""
+
+#: include/bookings/booking-functions.php:71 plugin.php:205 plugin.php:220
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:134
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:186
+#: shortcodes/vc-shortcodes/vc_special_elements.php:418
+#: shortcodes/vc-shortcodes/vc_special_elements.php:452
+#: templates/dashboard/my-bookings.php:115
+msgid "Hospital"
+msgstr ""
+
+#: include/bookings/booking-functions.php:72
+msgid "Booking Type"
+msgstr ""
+
+#: include/bookings/booking-functions.php:73 include/reviews/reviews-form.php:329
+#: shortcodes/elementor-shortcodes/submit-listing.php:469
+#: shortcodes/elementor-shortcodes/submit-listing.php:1878
+#: shortcodes/elementor-shortcodes/submit-listing.php:1959
+#: shortcodes/vc-shortcodes/submit.php:442
+#: shortcodes/vc-shortcodes/submit.php:1853
+#: shortcodes/vc-shortcodes/submit.php:1934
+#: templates/dashboard/booking-detail.php:107
+#: templates/single-list/listing-details-style1/sidebar/booking.php:165
+msgid "Email"
+msgstr ""
+
+#: include/bookings/booking-functions.php:74
+#: include/taxonomies-meta/hospitals.php:338
+#: shortcodes/elementor-shortcodes/edit-listing.php:791
+#: shortcodes/elementor-shortcodes/edit-listing.php:792
+#: shortcodes/elementor-shortcodes/edit-listing.php:1888
+#: shortcodes/elementor-shortcodes/submit-listing.php:738
+#: shortcodes/vc-shortcodes/edit.php:763 shortcodes/vc-shortcodes/edit.php:764
+#: shortcodes/vc-shortcodes/edit.php:1859 shortcodes/vc-shortcodes/submit.php:713
+#: templates/author/author-about.php:78 templates/author/author-contact.php:1
+#: templates/dashboard/booking-detail.php:109
+#: templates/single-list/listing-details-style1/sidebar/booking.php:169
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:129
+msgid "Phone"
+msgstr ""
+
+#: include/bookings/booking-functions.php:75
+msgid "Booking Date"
+msgstr ""
+
+#: include/bookings/booking-functions.php:76
+msgid "Booking Time"
+msgstr ""
+
+#: include/bookings/booking-functions.php:77
+msgid "Booking Status"
+msgstr ""
+
+#: include/bookings/booking-functions.php:224
+#: include/bookings/booking-functions.php:309
+#: include/bookings/booking-functions.php:318
+#: include/bookings/booking-functions.php:329
+#: templates/hospital/doctor-timings.php:27
+#: templates/single-list/listing-details-style1/content/hospitals.php:54
+#: templates/single-list/listing-details-style1/sidebar/booking.php:86
+msgid "Today"
+msgstr ""
+
+#: include/bookings/booking-functions.php:226
+#: include/bookings/booking-functions.php:310
+#: include/bookings/booking-functions.php:320
+#: include/bookings/booking-functions.php:331
+#: templates/single-list/listing-details-style1/sidebar/booking.php:87
+msgid "Tomorrow"
+msgstr ""
+
+#: include/bookings/booking-functions.php:270
+msgid "DAY OFF"
+msgstr ""
+
+#: include/bookings/booking-functions.php:400
+msgid "New Appointment For"
+msgstr ""
+
+#: include/bookings/booking-functions.php:467
+msgid "Something wend wrong. Please try again."
+msgstr ""
+
+#: include/bookings/booking-functions.php:578 include/options-config.php:285
+msgid "You have created a new Appointment"
+msgstr ""
+
+#: include/bookings/booking-functions.php:582 include/options-config.php:398
+msgid "Your Appointment has been approved"
+msgstr ""
+
+#: include/bookings/booking-functions.php:586
+msgid "Your Appointment has been canceled"
+msgstr ""
+
+#: include/bookings/booking-functions.php:590 include/options-config.php:318
+msgid "You have received a new Appointment"
+msgstr ""
+
+#: include/bookings/booking-functions.php:594
+msgid "Appointment Details"
+msgstr ""
+
+#: include/bookings/booking-functions.php:595
+msgid "Doctor Name:"
+msgstr ""
+
+#: include/bookings/booking-functions.php:597
+msgid "Hospital Name:"
+msgstr ""
+
+#: include/bookings/booking-functions.php:599
+msgid "Appointment Date:"
+msgstr ""
+
+#: include/bookings/booking-functions.php:600
+msgid "Appointment Time:"
+msgstr ""
+
+#: include/bookings/booking-functions.php:601
+msgid "Appointment Status:"
+msgstr ""
+
+#: include/bookings/booking-functions.php:603
+msgid "you will be notified if your Appointment is APPROVED or CANCELED."
+msgstr ""
+
+#: include/bookings/booking-functions.php:640
+msgid "Appointment Approved"
+msgstr ""
+
+#: include/bookings/booking-functions.php:643
+msgid "Appointment Canceled"
+msgstr ""
+
+#: include/earnings/earnings-table.php:6
+msgid "Receipt/invoice#"
+msgstr ""
+
+#: include/earnings/earnings-table.php:7 templates/dashboard/booking-detail.php:55
+msgid "Doctor Name"
+msgstr ""
+
+#: include/earnings/earnings-table.php:8
+msgid "Doctor Email"
+msgstr ""
+
+#: include/earnings/earnings-table.php:9 templates/dashboard/booking-detail.php:58
+#: templates/dashboard/booking-detail.php:94
+#: templates/single-list/listing-details-style1/sidebar/booking.php:139
+msgid "Hospital Name"
+msgstr ""
+
+#: include/earnings/earnings-table.php:10
+msgid "Patient Name"
+msgstr ""
+
+#: include/earnings/earnings-table.php:11
+msgid "Patient Email"
+msgstr ""
+
+#: include/earnings/earnings-table.php:12
+msgid "Doctor Payable Amount"
+msgstr ""
+
+#: include/earnings/earnings-table.php:13
+msgid "Admin Commision"
+msgstr ""
+
+#: include/earnings/earnings-table.php:14
+msgid "Total Amount"
+msgstr ""
+
+#: include/earnings/earnings-table.php:100
+msgid "No earnings found."
+msgstr ""
+
+#: include/earnings/earnings.php:10 include/earnings/earnings.php:11
+#: include/earnings/earnings.php:25 include/options-config.php:27
+msgid "Earnings"
+msgstr ""
+
+#: include/earnings/earnings.php:86
+msgid "Total Online Bookings"
+msgstr ""
+
+#: include/earnings/earnings.php:87
+msgid "This section only contains video consultation appointments."
+msgstr ""
+
+#: include/earnings/earnings.php:103
+msgid "Available Balance"
+msgstr ""
+
+#: include/earnings/earnings.php:115 templates/dashboard/earnings.php:101
+msgid "Total Earnings"
+msgstr ""
+
+#: include/earnings/earnings.php:127
+msgid "Total Withdrawls"
+msgstr ""
+
+#: include/earnings/earnings.php:133
+msgid "Recent Earnings"
+msgstr ""
+
+#: include/filter-functions.php:16
+msgid "More Filter"
+msgstr ""
+
+#: include/filter-functions.php:35 include/filter-functions.php:38
+#: include/filter-functions.php:74 include/taxonomies-meta/hospitals.php:31
+#: include/taxonomies-meta/hospitals.php:136
+msgid "Yes"
+msgstr ""
+
+#: include/filter-functions.php:241
+msgid "Sorry! No more filter found for current selections"
+msgstr ""
+
+#: include/filter-functions.php:254
+msgid "Cancel"
+msgstr ""
+
+#: include/filter-functions.php:257
+msgid "Show Results"
+msgstr ""
+
+#: include/functions.php:58 include/hospital-business-hours.php:106
+msgid "Monday"
+msgstr ""
+
+#: include/functions.php:59 include/hospital-business-hours.php:107
+msgid "Tuesday"
+msgstr ""
+
+#: include/functions.php:60 include/hospital-business-hours.php:108
+msgid "Wednesday"
+msgstr ""
+
+#: include/functions.php:61 include/hospital-business-hours.php:109
+msgid "Thursday"
+msgstr ""
+
+#: include/functions.php:62 include/hospital-business-hours.php:110
+msgid "Friday"
+msgstr ""
+
+#: include/functions.php:63 include/hospital-business-hours.php:111
+msgid "Saturday"
+msgstr ""
+
+#: include/functions.php:64 include/hospital-business-hours.php:112
+msgid "Sunday"
+msgstr ""
+
+#: include/functions.php:79
+#: templates/single-list/listing-details-style1/sidebar/booking.php:44
+msgid "In-person"
+msgstr ""
+
+#: include/functions.php:80 include/functions.php:1522 include/functions.php:1602
+#: shortcodes/elementor-shortcodes/edit-listing.php:1112
+#: shortcodes/elementor-shortcodes/submit-listing.php:942
+#: shortcodes/vc-shortcodes/edit.php:1084 shortcodes/vc-shortcodes/submit.php:917
+#: templates/headers/banner-sidesearch-1.php:1
+#: templates/hospital/doctor-loop-content.php:256
+#: templates/loop/loop2-list.php:255 templates/loop/loop2.php:228
+#: templates/sidebar-filter.php:830
+#: templates/single-list/listing-details-style1/content/title-bar.php:164
+#: templates/single-list/listing-details-style1/sidebar/booking.php:48
+msgid "Video Consultation"
+msgstr ""
+
+#: include/functions.php:95 templates/dashboard/earnings.php:289
+msgid "Pending"
+msgstr ""
+
+#: include/functions.php:96
+msgid "Paid"
+msgstr ""
+
+#: include/functions.php:703
+msgid "in"
+msgstr ""
+
+#: include/functions.php:705
+msgid "for"
+msgstr ""
+
+#: include/functions.php:1093 templates/hospital/doctor-loop-content.php:47
+#: templates/listing-with-sidebar-filters.php:473 templates/loop/loop2-list.php:47
+#: templates/loop/loop2.php:50
+msgid "Sponsored"
+msgstr ""
+
+#: include/functions.php:1104 templates/listing-with-sidebar-filters.php:487
+msgid "All Results"
+msgstr ""
+
+#: include/functions.php:1386 include/functions.php:1409
+#: templates/listing-with-sidebar-filters.php:501
+#: templates/listing-with-sidebar-filters.php:531
+msgid "No Results"
+msgstr ""
+
+#: include/functions.php:1389 include/functions.php:1412
+#: templates/listing-with-sidebar-filters.php:502
+#: templates/listing-with-sidebar-filters.php:532
+msgid "Sorry! There are no listings matching your search."
+msgstr ""
+
+#: include/functions.php:1392 include/functions.php:1415
+msgid "Try changing your search filters or "
+msgstr ""
+
+#: include/functions.php:1392 include/functions.php:1415
+#: templates/listing-with-sidebar-filters.php:507
+#: templates/listing-with-sidebar-filters.php:537 templates/sidebar-filter.php:120
+msgid "Reset Filter"
+msgstr ""
+
+#: include/functions.php:1445
+msgid "No Result Found"
+msgstr ""
+
+#: include/functions.php:1450 templates/listing-with-sidebar-filters.php:334
+#: templates/listing-with-sidebar-filters.php:336
+msgid "Showing"
+msgstr ""
+
+#: include/functions.php:1450 templates/listing-with-sidebar-filters.php:334
+#: templates/listing-with-sidebar-filters.php:336
+msgid "of"
+msgstr ""
+
+#: include/functions.php:1509 include/functions.php:1511
+#: shortcodes/elementor-shortcodes/submit-listing.php:310
+#: shortcodes/elementor-shortcodes/submit-listing.php:318
+#: shortcodes/vc-shortcodes/submit.php:284 shortcodes/vc-shortcodes/submit.php:292
+#: templates/headers/mp-header-style-1.php:80
+#: templates/headers/mp-header-style-1.php:84
+msgid "Sign In"
+msgstr ""
+
+#: include/functions.php:1528 include/functions.php:1608
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:163
+#: shortcodes/vc-shortcodes/vc_special_elements.php:217
+#: templates/hospital/doctor-loop-content.php:63
+#: templates/loop/appview-grid.php:144 templates/loop/loop2-list.php:61
+#: templates/loop/loop2.php:64 templates/sidebar-filter.php:831
+#: templates/single-list/listing-details-style1/content/title-bar.php:47
+msgid "Certified Doctor"
+msgstr ""
+
+#: include/functions.php:1534 include/functions.php:1614
+#: shortcodes/elementor-shortcodes/edit-listing.php:1116
+#: shortcodes/elementor-shortcodes/submit-listing.php:946
+#: shortcodes/vc-shortcodes/edit.php:1088 shortcodes/vc-shortcodes/submit.php:921
+#: templates/headers/banner-sidesearch-1.php:1 templates/sidebar-filter.php:832
+#: templates/single-list/listing-details-style1/content/title-bar.php:184
+msgid "Online Prescription"
+msgstr ""
+
+#: include/functions.php:1541 include/functions.php:1621
+#: shortcodes/elementor-shortcodes/edit-listing.php:1120
+#: shortcodes/elementor-shortcodes/submit-listing.php:950
+#: shortcodes/vc-shortcodes/edit.php:1092 shortcodes/vc-shortcodes/submit.php:925
+#: templates/hospital/doctor-loop-content.php:252
+#: templates/loop/loop2-list.php:251 templates/loop/loop2.php:225
+#: templates/sidebar-filter.php:833
+msgid "Taking New Patients"
+msgstr ""
+
+#: include/functions.php:2113
+msgid ""
+"No Room Url Found Please Contact Listing Owner For Your Appointment Room Url."
+msgstr ""
+
+#: include/hospital-business-hours.php:41 include/hospital-business-hours.php:42
+msgid "Remove"
+msgstr ""
+
+#: include/hospital-business-hours.php:49
+msgid "Working Hours"
+msgstr ""
+
+#: include/hospital-business-hours.php:92 include/hospital-business-hours.php:155
+#: templates/hospital/doctor-timings.php:9
+#: templates/hospital/doctor-timings.php:36
+#: templates/single-list/listing-details-style1/content/hospitals.php:27
+#: templates/single-list/listing-details-style1/content/hospitals.php:63
+msgid "24 hours open"
+msgstr ""
+
+#: include/hospital-business-hours.php:153
+msgid "24 Hours"
+msgstr ""
+
+#: include/hospital-business-hours.php:155
+msgid "Sorry"
+msgstr ""
+
+#: include/hospital-business-hours.php:155
+msgid "Already Added"
+msgstr ""
+
+#: include/import/class-mp-import.php:19
+msgid "MedicalPro Setup Wizard"
+msgstr ""
+
+#: include/import/class-mp-import.php:86
+msgid "Import Content"
+msgstr ""
+
+#: include/import/class-mp-import.php:109 include/import/class-mp-import.php:225
+msgid "Sorry! You can't import data without login."
+msgstr ""
+
+#: include/import/class-mp-import.php:111 include/import/class-mp-import.php:227
+msgid "Sorry, You are not allowed to access this page"
+msgstr ""
+
+#: include/import/class-mp-import.php:116 include/import/class-mp-import.php:232
+msgid "Sorry, Your MedicalPro License Is Not Activated."
+msgstr ""
+
+#: include/import/class-mp-import.php:123 include/import/class-mp-import.php:134
+msgid "Error! Please Select One Form Builder To Get Started."
+msgstr ""
+
+#: include/import/class-mp-import.php:160
+msgid "Error on import"
+msgstr ""
+
+#: include/import/class-mp-import.php:166 include/import/class-mp-import.php:215
+#: include/import/class-mp-import.php:258
+msgid "Something went wrong"
+msgstr ""
+
+#: include/import/class-mp-import.php:194
+msgid "Content imported successfully"
+msgstr ""
+
+#: include/import/class-mp-import.php:249
+msgid "Theme options imported successfully"
+msgstr ""
+
+#: include/import/class-mp-import.php:251 include/import/class-mp-import.php:254
+msgid "Error in theme option"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:44
+msgid "Receipt"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:52
+msgid "Billed to :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:60
+msgid "Invoice :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:62
+msgid "Process With: Direct / Wire method"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:68
+#: shortcodes/elementor-shortcodes/edit-listing.php:1389
+#: shortcodes/elementor-shortcodes/submit-listing.php:1095
+#: shortcodes/vc-shortcodes/edit.php:1360 shortcodes/vc-shortcodes/submit.php:1070
+msgid "Description"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:71
+msgid "Payment instructions"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:90
+msgid "Subtotal :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:94
+msgid "Tax :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:98
+msgid "Amount Paid :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:102
+msgid "Balance due :"
+msgstr ""
+
+#: include/invoices/invoice-functions.php:117
+msgid "Go Back To Dashboard"
+msgstr ""
+
+#: include/options-config.php:28
+msgid ""
+"Enable to show Earnings within the dashboard. (Available only for business "
+"listing owners)"
+msgstr ""
+
+#: include/options-config.php:47
+msgid "Home Banner Search Position"
+msgstr ""
+
+#: include/options-config.php:48
+msgid "Select Your Home Page Search Position."
+msgstr ""
+
+#: include/options-config.php:50
+msgid "Right"
+msgstr ""
+
+#: include/options-config.php:51
+msgid "Bottom"
+msgstr ""
+
+#: include/options-config.php:62
+msgid "Home Banner Forground Image"
+msgstr ""
+
+#: include/options-config.php:64
+msgid "Upload image for homepage banner forground"
+msgstr ""
+
+#: include/options-config.php:78
+msgid "Hospital Filter"
+msgstr ""
+
+#: include/options-config.php:82 include/options-config.php:92
+#: include/options-config.php:217 include/options-config.php:228
+#: include/options-config.php:239 include/options-config.php:250
+#: include/options-config.php:480 include/options-config.php:511
+#: include/options-config.php:521 include/options-config.php:531
+#: include/options-config.php:541 include/options-config.php:551
+msgid "Enabled"
+msgstr ""
+
+#: include/options-config.php:83 include/options-config.php:93
+#: include/options-config.php:218 include/options-config.php:229
+#: include/options-config.php:240 include/options-config.php:251
+#: include/options-config.php:481 include/options-config.php:512
+#: include/options-config.php:522 include/options-config.php:532
+#: include/options-config.php:542 include/options-config.php:552
+msgid "Disabled"
+msgstr ""
+
+#: include/options-config.php:88
+msgid "Listing Features Filter"
+msgstr ""
+
+#: include/options-config.php:102
+msgid "Select listing detail page Style"
+msgstr ""
+
+#: include/options-config.php:119
+msgid "Announcements"
+msgstr ""
+
+#: include/options-config.php:120 include/taxonomies-meta/hospitals.php:226
+#: plugin.php:204 plugin.php:214
+msgid "Hospitals"
+msgstr ""
+
+#: include/options-config.php:121
+msgid "Listing Features"
+msgstr ""
+
+#: include/options-config.php:122
+#: shortcodes/elementor-shortcodes/edit-listing.php:1018
+#: shortcodes/elementor-shortcodes/edit-listing.php:1022
+#: shortcodes/elementor-shortcodes/edit-listing.php:1023
+#: shortcodes/elementor-shortcodes/edit-listing.php:2142
+#: shortcodes/elementor-shortcodes/submit-listing.php:887
+#: shortcodes/elementor-shortcodes/submit-listing.php:891
+#: shortcodes/elementor-shortcodes/submit-listing.php:892
+#: shortcodes/elementor-shortcodes/submit-listing.php:1583
+#: shortcodes/vc-shortcodes/edit.php:990 shortcodes/vc-shortcodes/edit.php:994
+#: shortcodes/vc-shortcodes/edit.php:995 shortcodes/vc-shortcodes/edit.php:2113
+#: shortcodes/vc-shortcodes/submit.php:862 shortcodes/vc-shortcodes/submit.php:866
+#: shortcodes/vc-shortcodes/submit.php:867
+#: shortcodes/vc-shortcodes/submit.php:1558 templates/single-listing.php:53
+msgid "Insurances"
+msgstr ""
+
+#: include/options-config.php:123
+msgid "Additional Details"
+msgstr ""
+
+#: include/options-config.php:124 plugin.php:254 plugin.php:264
+#: shortcodes/elementor-shortcodes/edit-listing.php:1051
+#: shortcodes/elementor-shortcodes/edit-listing.php:1055
+#: shortcodes/elementor-shortcodes/edit-listing.php:1056
+#: shortcodes/elementor-shortcodes/edit-listing.php:2166
+#: shortcodes/elementor-shortcodes/submit-listing.php:914
+#: shortcodes/elementor-shortcodes/submit-listing.php:918
+#: shortcodes/elementor-shortcodes/submit-listing.php:919
+#: shortcodes/elementor-shortcodes/submit-listing.php:1602
+#: shortcodes/vc-shortcodes/edit.php:1023 shortcodes/vc-shortcodes/edit.php:1027
+#: shortcodes/vc-shortcodes/edit.php:1028 shortcodes/vc-shortcodes/edit.php:2137
+#: shortcodes/vc-shortcodes/submit.php:889 shortcodes/vc-shortcodes/submit.php:893
+#: shortcodes/vc-shortcodes/submit.php:894
+#: shortcodes/vc-shortcodes/submit.php:1577
+msgid "Awards"
+msgstr ""
+
+#: include/options-config.php:125
+msgid "FAQs"
+msgstr ""
+
+#: include/options-config.php:126 templates/author/author-content.php:1
+msgid "Reviews"
+msgstr ""
+
+#: include/options-config.php:127
+msgid "Review Form"
+msgstr ""
+
+#: include/options-config.php:143
+msgid "Booking Form"
+msgstr ""
+
+#: include/options-config.php:153
+msgid "Booking For Certified Doctors"
+msgstr ""
+
+#: include/options-config.php:154
+msgid "Show Booking Only With Certified Doctors"
+msgstr ""
+
+#: include/options-config.php:155
+msgid "If The Doctor Is Certified Only Then Show Booking Else Show Leadform"
+msgstr ""
+
+#: include/options-config.php:205
+msgid "Hospital Archive"
+msgstr ""
+
+#: include/options-config.php:213 templates/archive-hospital.php:100
+msgid "Doctors"
+msgstr ""
+
+#: include/options-config.php:223
+msgid "Doctors Filter"
+msgstr ""
+
+#: include/options-config.php:234
+msgid "Alphabetical"
+msgstr ""
+
+#: include/options-config.php:245
+#: shortcodes/elementor-shortcodes/submit-listing.php:788
+msgid "Categories"
+msgstr ""
+
+#: include/options-config.php:276
+msgid "<span class=\"font24\">Submit Booking</span>"
+msgstr ""
+
+#: include/options-config.php:277
+msgid ""
+"Use these shortcodes only for booking cancelled email. %listing_title as "
+"Listing title, %listing_url as Listing URL, %hospital_name as Hospital Name, "
+"%hospital_url as Hospital URL, %appointment_date as Appointment Date, "
+"%appointment_time as Appointment Time, %appointment_status as Appointment "
+"Status, %listing_author_name as Listing Author Name, %listing_author_url as "
+"Listing Author URL, %booker_name as Booker Name, %booker_url as Booker URL"
+msgstr ""
+
+#: include/options-config.php:282
+msgid "New Booking Submission Subject"
+msgstr ""
+
+#: include/options-config.php:283 include/options-config.php:316
+#: include/options-config.php:351 include/options-config.php:396
+#: include/options-config.php:437
+msgid "Email subject"
+msgstr ""
+
+#: include/options-config.php:290 include/options-config.php:358
+msgid "New Booking Submission Content"
+msgstr ""
+
+#: include/options-config.php:291 include/options-config.php:324
+#: include/options-config.php:359 include/options-config.php:404
+#: include/options-config.php:445
+msgid "Email content"
+msgstr ""
+
+#: include/options-config.php:315
+msgid "New Booking Submission Subject(for Listing Author)"
+msgstr ""
+
+#: include/options-config.php:323
+msgid "New Booking Submission Content(for Listing Author)"
+msgstr ""
+
+#: include/options-config.php:350
+msgid "Booking Room Url Subject"
+msgstr ""
+
+#: include/options-config.php:353
+msgid "Your Appointment Room Link"
+msgstr ""
+
+#: include/options-config.php:389
+msgid "<span class=\"font24\">Approved Booking</span>"
+msgstr ""
+
+#: include/options-config.php:390
+msgid ""
+"Use these shortcodes only for booking cancelled email. %listing_title as "
+"Listing title, %listing_url as Listing URL, %hospital_name as Hospital Name, "
+"%hospital_url as Hospital URL, %appointment_date as Appointment Date, "
+"%appointment_time as Appointment Time, %appointment_status as Appointment "
+"Status, %listing_author_name as Listing Author Name, %listing_author_url as "
+"Listing Author URL, %booker_name as Booker Name, %booker_url as Booker URL, "
+"%approved_date as Approved Date"
+msgstr ""
+
+#: include/options-config.php:395
+msgid "Approved Booking Subject"
+msgstr ""
+
+#: include/options-config.php:403
+msgid "Approved Booking Content"
+msgstr ""
+
+#: include/options-config.php:430
+msgid "<span class=\"font24\">Cancelled Booking</span>"
+msgstr ""
+
+#: include/options-config.php:431
+msgid ""
+"Use these shortcodes only for booking cancelled email. %listing_title as "
+"Listing title, %listing_url as Listing URL, %hospital_name as Hospital Name, "
+"%hospital_url as Hospital URL, %appointment_date as Appointment Date, "
+"%appointment_time as Appointment Time, %appointment_status as Appointment "
+"Status, %listing_author_name as Listing Author Name, %listing_author_url as "
+"Listing Author URL, %booker_name as Booker Name, %booker_url as Booker URL, "
+"%cancelled_date as Cancelled Date"
+msgstr ""
+
+#: include/options-config.php:436
+msgid "Cancelled Booking Subject"
+msgstr ""
+
+#: include/options-config.php:439
+msgid "Your Appointment has been cancelled"
+msgstr ""
+
+#: include/options-config.php:444
+msgid "Cancelled Booking Content"
+msgstr ""
+
+#: include/options-config.php:469 include/options-config.php:477
+msgid "Commision"
+msgstr ""
+
+#: include/options-config.php:488
+msgid "Commision Percentage"
+msgstr ""
+
+#: include/options-config.php:489
+#, php-format
+msgid "Add percentage without % sign"
+msgstr ""
+
+#: include/options-config.php:490
+msgid "Enter commision without percentage sign"
+msgstr ""
+
+#: include/options-config.php:500 templates/dashboard/earnings.php:386
+msgid "Payout Settings"
+msgstr ""
+
+#: include/options-config.php:508
+msgid "Paypal"
+msgstr ""
+
+#: include/options-config.php:518
+msgid "Payoneer"
+msgstr ""
+
+#: include/options-config.php:528
+msgid "Stripe"
+msgstr ""
+
+#: include/options-config.php:538
+msgid "Bank Transfer"
+msgstr ""
+
+#: include/options-config.php:548
+msgid "Other"
+msgstr ""
+
+#: include/reviews/all-reviews.php:84
+msgid "Review for "
+msgstr ""
+
+#: include/reviews/all-reviews.php:86
+msgid "Reviews for "
+msgstr ""
+
+#: include/reviews/all-reviews.php:104
+msgid "Filter By : "
+msgstr ""
+
+#: include/reviews/all-reviews.php:106
+msgid "Newest"
+msgstr ""
+
+#: include/reviews/all-reviews.php:107
+msgid "Oldest"
+msgstr ""
+
+#: include/reviews/all-reviews.php:108
+#: templates/listing-with-sidebar-filters.php:434 templates/sidebar-filter.php:315
+msgid "Highest Rated"
+msgstr ""
+
+#: include/reviews/all-reviews.php:109
+msgid "Lowest Rated"
+msgstr ""
+
+#: include/reviews/all-reviews.php:202 include/reviews/all-reviews.php:665
+#: templates/archive-hospital.php:267
+msgid "View All"
+msgstr ""
+
+#: include/reviews/all-reviews.php:302 include/reviews/all-reviews.php:579
+#: include/reviews/all-reviews.php:765
+msgid "Interesting"
+msgstr ""
+
+#: include/reviews/all-reviews.php:303 include/reviews/all-reviews.php:580
+#: include/reviews/all-reviews.php:766
+msgid "Lol"
+msgstr ""
+
+#: include/reviews/all-reviews.php:304 include/reviews/all-reviews.php:581
+#: include/reviews/all-reviews.php:767
+msgid "Love"
+msgstr ""
+
+#: include/reviews/all-reviews.php:323 include/reviews/all-reviews.php:786
+msgid "Was this helpful?"
+msgstr ""
+
+#: include/reviews/all-reviews.php:326 include/reviews/all-reviews.php:333
+#: include/reviews/all-reviews.php:597 include/reviews/all-reviews.php:789
+#: include/reviews/all-reviews.php:796 include/reviews/review-submit.php:493
+msgid "You already reacted"
+msgstr ""
+
+#: include/reviews/all-reviews.php:347 include/reviews/all-reviews.php:810
+msgid "Owner Response"
+msgstr ""
+
+#: include/reviews/all-reviews.php:433
+msgid "Overall Rating"
+msgstr ""
+
+#: include/reviews/all-reviews.php:463
+#, php-format
+msgid "Based on %u Experiences"
+msgstr ""
+
+#: include/reviews/all-reviews.php:473
+msgid "Rate your experience"
+msgstr ""
+
+#: include/reviews/all-reviews.php:476
+msgid "How likely are you to recommend us?"
+msgstr ""
+
+#: include/reviews/review-submit.php:115
+msgid "Sorry! Listing owners can not post review on their listings!"
+msgstr ""
+
+#: include/reviews/review-submit.php:129
+msgid "Sorry! already posted on this listing!"
+msgstr ""
+
+#: include/reviews/review-submit.php:137
+msgid "Email already exists! Please login or change email"
+msgstr ""
+
+#: include/reviews/review-submit.php:151
+msgid "User name already exists! Please login or try a different one"
+msgstr ""
+
+#: include/reviews/review-submit.php:288 include/reviews/review-submit.php:289
+msgid "Review has been submitted successfully"
+msgstr ""
+
+#: include/reviews/review-submit.php:393 include/submit-ajax.php:1885
+msgid "Please check captcha"
+msgstr ""
+
+#: include/reviews/review-submit.php:488
+msgid "Thanks for reacting"
+msgstr ""
+
+#: include/reviews/reviews-form.php:22 include/submit-ajax.php:154
+#: include/submit-ajax.php:1452 include/submit-ajax.php:1459
+#: shortcodes/elementor-shortcodes/edit-listing.php:183
+#: shortcodes/elementor-shortcodes/edit-listing.php:196
+#: shortcodes/elementor-shortcodes/submit-listing.php:254
+#: shortcodes/elementor-shortcodes/submit-listing.php:269
+#: shortcodes/vc-shortcodes/edit.php:155 shortcodes/vc-shortcodes/edit.php:168
+#: shortcodes/vc-shortcodes/submit.php:228 shortcodes/vc-shortcodes/submit.php:243
+msgid "Max. allowed images are "
+msgstr ""
+
+#: include/reviews/reviews-form.php:27 include/submit-ajax.php:161
+#: include/submit-ajax.php:1466
+#: shortcodes/elementor-shortcodes/edit-listing.php:188
+#: shortcodes/elementor-shortcodes/edit-listing.php:201
+#: shortcodes/elementor-shortcodes/submit-listing.php:259
+#: shortcodes/elementor-shortcodes/submit-listing.php:275
+#: shortcodes/vc-shortcodes/edit.php:160 shortcodes/vc-shortcodes/edit.php:173
+#: shortcodes/vc-shortcodes/submit.php:233 shortcodes/vc-shortcodes/submit.php:249
+msgid "Max. allowed images size is "
+msgstr ""
+
+#: include/reviews/reviews-form.php:28
+#: shortcodes/elementor-shortcodes/edit-listing.php:189
+#: shortcodes/elementor-shortcodes/edit-listing.php:202
+#: shortcodes/elementor-shortcodes/submit-listing.php:260
+#: shortcodes/elementor-shortcodes/submit-listing.php:276
+#: shortcodes/vc-shortcodes/edit.php:161 shortcodes/vc-shortcodes/edit.php:174
+#: shortcodes/vc-shortcodes/submit.php:234 shortcodes/vc-shortcodes/submit.php:250
+msgid " Mb"
+msgstr ""
+
+#: include/reviews/reviews-form.php:53 include/reviews/reviews-form.php:217
+msgid "0.0"
+msgstr ""
+
+#: include/reviews/reviews-form.php:66 include/reviews/reviews-form.php:230
+msgid "Based on your meeting"
+msgstr ""
+
+#: include/reviews/reviews-form.php:101 include/reviews/reviews-form.php:274
+msgid "Select Images to upload"
+msgstr ""
+
+#: include/reviews/reviews-form.php:107 include/reviews/reviews-form.php:141
+#: include/reviews/reviews-form.php:280 include/reviews/reviews-form.php:309
+#: shortcodes/elementor-shortcodes/edit-listing.php:1539
+#: shortcodes/elementor-shortcodes/edit-listing.php:1556
+#: shortcodes/elementor-shortcodes/edit-listing.php:2548
+#: shortcodes/elementor-shortcodes/edit-listing.php:2560
+#: shortcodes/elementor-shortcodes/submit-listing.php:1166
+#: shortcodes/elementor-shortcodes/submit-listing.php:1179
+#: shortcodes/elementor-shortcodes/submit-listing.php:1820
+#: shortcodes/elementor-shortcodes/submit-listing.php:1833
+#: shortcodes/vc-shortcodes/edit.php:1510 shortcodes/vc-shortcodes/edit.php:1527
+#: shortcodes/vc-shortcodes/edit.php:2519 shortcodes/vc-shortcodes/edit.php:2531
+#: shortcodes/vc-shortcodes/submit.php:1141
+#: shortcodes/vc-shortcodes/submit.php:1154
+#: shortcodes/vc-shortcodes/submit.php:1795
+#: shortcodes/vc-shortcodes/submit.php:1808
+msgid "Browse"
+msgstr ""
+
+#: include/reviews/reviews-form.php:124 include/reviews/reviews-form.php:295
+msgid "Your Rating for this listing"
+msgstr ""
+
+#: include/reviews/reviews-form.php:140 include/reviews/reviews-form.php:308
+msgid "Select Images"
+msgstr ""
+
+#: include/reviews/reviews-form.php:154 include/reviews/reviews-form.php:336
+msgid "Example: It was an awesome experience to be there"
+msgstr ""
+
+#: include/reviews/reviews-form.php:162 include/reviews/reviews-form.php:339
+msgid "Review"
+msgstr ""
+
+#: include/reviews/reviews-form.php:163 include/reviews/reviews-form.php:340
+msgid ""
+"Tip: A great review covers food, service, and ambiance. Got recommendations for "
+"your favorite dishes and drinks, or something everyone should try here? Include "
+"that too!"
+msgstr ""
+
+#: include/reviews/reviews-form.php:164
+msgid "Your review is recommended to be at least 140 characters long :)"
+msgstr ""
+
+#: include/reviews/reviews-form.php:177 include/reviews/reviews-form.php:352
+#: shortcodes/elementor-shortcodes/submit-listing.php:491
+#: shortcodes/elementor-shortcodes/submit-listing.php:1901
+#: shortcodes/elementor-shortcodes/submit-listing.php:1981
+#: shortcodes/vc-shortcodes/submit.php:464
+#: shortcodes/vc-shortcodes/submit.php:1876
+#: shortcodes/vc-shortcodes/submit.php:1956 templates/author/author-contact.php:1
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:144
+msgid "I Agree"
+msgstr ""
+
+#: include/reviews/reviews-form.php:181 include/reviews/reviews-form.php:356
+msgid "You agree & accept our Terms & Conditions for posting this review?"
+msgstr ""
+
+#: include/reviews/reviews-form.php:186 include/reviews/reviews-form.php:196
+msgid "Submit Review"
+msgstr ""
+
+#: include/reviews/reviews-form.php:188 include/reviews/reviews-form.php:198
+#: include/reviews/reviews-form.php:413
+msgid "Please fill Email, Title, Description and Rating"
+msgstr ""
+
+#: include/reviews/reviews-form.php:323
+msgid "User Name"
+msgstr ""
+
+#: include/reviews/reviews-form.php:324
+msgid "john"
+msgstr ""
+
+#: include/reviews/reviews-form.php:330
+msgid "you@website.com"
+msgstr ""
+
+#: include/reviews/reviews-form.php:341
+msgid "Your review is recommended to be at least 140 characters long"
+msgstr ""
+
+#: include/reviews/reviews-form.php:375 include/reviews/reviews-form.php:400
+msgid "Submit Review "
+msgstr ""
+
+#: include/reviews/reviews-form.php:379 include/reviews/reviews-form.php:404
+msgid "Signup & Submit Review "
+msgstr ""
+
+#: include/submit-ajax.php:187 include/submit-ajax.php:618
+#: include/submit-ajax.php:624 include/submit-ajax.php:631
+#: include/submit-ajax.php:1030 include/submit-ajax.php:1884
+msgid "Sorry! There is problem in your submission"
+msgstr ""
+
+#: include/submit-ajax.php:588 include/submit-ajax.php:1015
+#: include/submit-ajax.php:1347 include/submit-ajax.php:1879
+msgid "Success! Submission is successful"
+msgstr ""
+
+#: include/submit-ajax.php:623
+msgid "UserName already exists"
+msgstr ""
+
+#: include/submit-ajax.php:630
+msgid "Email already exists"
+msgstr ""
+
+#: include/submit-ajax.php:1029
+msgid "Invalid username or password"
+msgstr ""
+
+#: include/submit-ajax.php:1477
+msgid "Sorry! There is problem in listing submission"
+msgstr ""
+
+#: include/suggestedhospitals.php:57
+msgid "Suggested Hospitals Form Listing Owner's"
+msgstr ""
+
+#: include/suggestedhospitals.php:77 include/suggestedhospitals.php:117
+msgid "Suggested By Listing"
+msgstr ""
+
+#: include/suggestedhospitals.php:78 include/suggestedhospitals.php:118
+msgid "Suggested Hospital Title"
+msgstr ""
+
+#: include/suggestedhospitals.php:79 include/suggestedhospitals.php:119
+#: include/withdrawals/withdrawals.php:58
+msgid "Action"
+msgstr ""
+
+#: include/suggestedhospitals.php:98
+msgid "Create And Assign Hospital"
+msgstr ""
+
+#: include/suggestedhospitals.php:103
+msgid "Reject"
+msgstr ""
+
+#: include/taxonomies-meta/awards.php:5
+msgid "Awrds Icon"
+msgstr ""
+
+#: include/taxonomies-meta/awards.php:22
+msgid "Award Icon"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:6
+#: include/taxonomies-meta/hospitals.php:85
+#: shortcodes/elementor-shortcodes/edit-listing.php:1552
+#: shortcodes/elementor-shortcodes/edit-listing.php:2556
+#: shortcodes/elementor-shortcodes/submit-listing.php:1175
+#: shortcodes/elementor-shortcodes/submit-listing.php:1829
+#: shortcodes/vc-shortcodes/edit.php:1523 shortcodes/vc-shortcodes/edit.php:2527
+#: shortcodes/vc-shortcodes/submit.php:1150
+#: shortcodes/vc-shortcodes/submit.php:1804
+msgid "Upload Business Logo"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:11
+#: include/taxonomies-meta/hospitals.php:98 templates/author/author-about.php:88
+#: templates/dashboard/booking-detail.php:62
+msgid "Address"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:17
+#: include/taxonomies-meta/hospitals.php:108
+msgid "Phone Number"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:21
+#: include/taxonomies-meta/hospitals.php:116 templates/archive-hospital.php:172
+msgid "Emergency Number"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:25
+#: include/taxonomies-meta/hospitals.php:124
+msgid "Availabe Beds"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:29
+#: include/taxonomies-meta/hospitals.php:132 templates/archive-hospital.php:107
+msgid "Wheelchair Accessibility"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:32
+#: include/taxonomies-meta/hospitals.php:137
+msgid "No"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:36
+#: include/taxonomies-meta/hospitals.php:143 templates/archive-hospital.php:115
+msgid "Ambulances"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:40
+#: include/taxonomies-meta/hospitals.php:151
+msgid "Timings"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:44
+#: include/taxonomies-meta/hospitals.php:159
+msgid "Established"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:48
+#: include/taxonomies-meta/hospitals.php:167
+#: shortcodes/elementor-shortcodes/submit-listing.php:1137
+#: shortcodes/vc-shortcodes/submit.php:1112
+msgid "Gallery"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:55
+#: include/taxonomies-meta/hospitals.php:194
+msgid "Add Gallery Images"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:81
+#: shortcodes/elementor-shortcodes/edit-listing.php:1556
+#: shortcodes/elementor-shortcodes/submit-listing.php:1179
+#: shortcodes/vc-shortcodes/edit.php:1527 shortcodes/vc-shortcodes/submit.php:1154
+msgid "Business Logo"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:248
+#: include/taxonomies-meta/hospitals.php:300
+#: include/taxonomies-meta/hospitals.php:379
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:140
+#: shortcodes/vc-shortcodes/vc_special_elements.php:423
+msgid "Select Hospital"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:275
+#: shortcodes/elementor-shortcodes/edit-listing.php:1379
+#: shortcodes/elementor-shortcodes/submit-listing.php:1085
+#: shortcodes/vc-shortcodes/edit.php:1350 shortcodes/vc-shortcodes/submit.php:1060
+msgid "add new"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:320
+#: include/taxonomies-meta/hospitals.php:327
+msgid "Hospital/Clinic Name"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:328
+msgid "Type Here EG: John Doe Hospital/Clinic"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:332
+msgid "Suggest a Hospital/Clinic"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:344
+#: templates/dashboard/booking-detail.php:162
+msgid "Video Consultation Fee"
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:348
+msgid ""
+"By entering a fee amount for video consultation, a user will have to pay online "
+"to complete the appointment request. The amount can be requested from your "
+"digital wallet."
+msgstr ""
+
+#: include/taxonomies-meta/hospitals.php:364
+msgid "Make This Hospital Primary"
+msgstr ""
+
+#: include/taxonomies-meta/insurance.php:6
+#: include/taxonomies-meta/insurance.php:22
+msgid "Insurance Logo"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:10
+msgctxt "post type general name"
+msgid "Withdrawals"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:11
+msgctxt "post type singular name"
+msgid "Withdrawal"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:12
+msgctxt "admin menu"
+msgid "Withdrawals"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:13
+msgctxt "add new on admin bar"
+msgid "Withdrawal"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:14
+msgctxt "Withdrawal"
+msgid "Add New"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:15
+msgid "Add New Withdrawal"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:16
+msgid "New Withdrawal"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:17
+msgid "Edit Withdrawal"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:18
+msgid "View Withdrawal"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:19
+msgid "Withdrawals"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:20
+msgid "Search Withdrawals"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:21
+msgid "Parent Withdrawal:"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:22
+msgid "No Withdrawals found."
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:23
+msgid "No Withdrawal found in Trash."
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:55
+msgid "Requested By"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:56
+msgid "Requested Amount"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:57 templates/dashboard/earnings.php:330
+msgid "Status"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:147
+msgid "Take Action"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:151
+msgid "Complete This Request"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:153
+msgid "User Available Balance"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:157
+msgid "Requested Amount By User"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:161
+msgid "Payout Details"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:170
+msgid "Request Detail"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:175
+msgid "Complete Request"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:176
+msgid "Reject Request"
+msgstr ""
+
+#: include/withdrawals/withdrawals.php:184
+msgid "Action already taken"
+msgstr ""
+
+#: plugin.php:180
+msgid "Please fill all required fields"
+msgstr ""
+
+#: plugin.php:181
+msgid "Sorry! Hospital is already added."
+msgstr ""
+
+#: plugin.php:206
+msgid "Search Hospitals"
+msgstr ""
+
+#: plugin.php:207
+msgid "All Hospitals"
+msgstr ""
+
+#: plugin.php:208
+msgid "Parent Hospitals"
+msgstr ""
+
+#: plugin.php:209
+msgid "Parent Hospitals:"
+msgstr ""
+
+#: plugin.php:210
+msgid "Edit Hospital"
+msgstr ""
+
+#: plugin.php:211
+msgid "Update Hospital"
+msgstr ""
+
+#: plugin.php:212
+msgid "Add New Hospital"
+msgstr ""
+
+#: plugin.php:213
+msgid "New Hospital Name"
+msgstr ""
+
+#: plugin.php:229 plugin.php:230 plugin.php:239
+#: templates/dashboard/booking-detail.php:90
+msgid "Insurance"
+msgstr ""
+
+#: plugin.php:231
+msgid "Search Insurance"
+msgstr ""
+
+#: plugin.php:232
+msgid "All Insurances"
+msgstr ""
+
+#: plugin.php:233
+msgid "Parent Insurance"
+msgstr ""
+
+#: plugin.php:234
+msgid "Parent Insurance:"
+msgstr ""
+
+#: plugin.php:235
+msgid "Edit Insurance"
+msgstr ""
+
+#: plugin.php:236
+msgid "Update Insurance"
+msgstr ""
+
+#: plugin.php:237
+msgid "Add New Insurance"
+msgstr ""
+
+#: plugin.php:238
+msgid "New Insurance Name"
+msgstr ""
+
+#: plugin.php:255
+msgid "Award"
+msgstr ""
+
+#: plugin.php:256
+msgid "Search Awards"
+msgstr ""
+
+#: plugin.php:257
+msgid "All Awards"
+msgstr ""
+
+#: plugin.php:258
+msgid "Parent Awards"
+msgstr ""
+
+#: plugin.php:259
+msgid "Parent Awards:"
+msgstr ""
+
+#: plugin.php:260
+msgid "Edit Award"
+msgstr ""
+
+#: plugin.php:261
+msgid "Update Award"
+msgstr ""
+
+#: plugin.php:262
+msgid "Add New Award"
+msgstr ""
+
+#: plugin.php:263
+msgid "New Award Name"
+msgstr ""
+
+#: plugin.php:347
+msgid "When you purchase a single license of"
+msgstr ""
+
+#: plugin.php:348 plugin.php:365 plugin.php:369
+#: shortcodes/elementor-shortcodes/elementor_special_elements.php:44
+msgid "MedicalPro"
+msgstr ""
+
+#: plugin.php:348
+msgid "you are allowed to use the plugin on one single finished directory site."
+msgstr ""
+
+#: plugin.php:355
+msgid "ENTER YOUR ITEM PURCHASE CODE (KEY)"
+msgstr ""
+
+#: plugin.php:359 plugin.php:366
+msgid "Activate"
+msgstr ""
+
+#: plugin.php:365
+msgid "is currently inactive."
+msgstr ""
+
+#: plugin.php:366 plugin.php:370
+msgid "your license key or get one"
+msgstr ""
+
+#: plugin.php:366 plugin.php:370
+msgid "here"
+msgstr ""
+
+#: plugin.php:369
+msgid "wrong purchase code."
+msgstr ""
+
+#: plugin.php:370 templates/dashboard/earnings.php:293
+msgid "Try Again"
+msgstr ""
+
+#: plugin.php:455
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: plugin.php:456
+msgid "Elementor Hello World"
+msgstr ""
+
+#: plugin.php:457 plugin.php:469
+msgid "Elementor"
+msgstr ""
+
+#: plugin.php:467 plugin.php:480
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: plugin.php:468 plugin.php:481
+msgid "Elementor Listingpro"
+msgstr ""
+
+#: plugin.php:482
+msgid "PHP"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:15
+#: shortcodes/vc-shortcodes/edit.php:7
+msgid "Edit Listing"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:30
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:28
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:72
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:28
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:28
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:42
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:28
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:43
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:28
+#: shortcodes/elementor-shortcodes/submit-listing.php:29
+#: shortcodes/vc-shortcodes/vc_special_elements.php:617
+msgid "Content"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:43
+#: shortcodes/elementor-shortcodes/submit-listing.php:42
+#: shortcodes/vc-shortcodes/edit.php:23 shortcodes/vc-shortcodes/submit.php:24
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:387
+#: shortcodes/elementor-shortcodes/submit-listing.php:301
+#: shortcodes/vc-shortcodes/edit.php:359 shortcodes/vc-shortcodes/submit.php:275
+msgid "You are currently signed in as"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:387
+#: shortcodes/elementor-shortcodes/submit-listing.php:301
+#: shortcodes/vc-shortcodes/edit.php:359 shortcodes/vc-shortcodes/submit.php:275
+msgid "Sign out"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:387
+#: shortcodes/elementor-shortcodes/submit-listing.php:301
+#: shortcodes/vc-shortcodes/edit.php:359 shortcodes/vc-shortcodes/submit.php:275
+msgid "or continue below and start submission."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:447
+#: shortcodes/vc-shortcodes/edit.php:419
+msgid "Update & Preview"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:469
+#: shortcodes/elementor-shortcodes/edit-listing.php:2614
+#: shortcodes/elementor-shortcodes/edit-listing.php:2646
+#: shortcodes/elementor-shortcodes/submit-listing.php:509
+#: shortcodes/elementor-shortcodes/submit-listing.php:1923
+#: shortcodes/elementor-shortcodes/submit-listing.php:2000
+#: shortcodes/vc-shortcodes/edit.php:441 shortcodes/vc-shortcodes/edit.php:2585
+#: shortcodes/vc-shortcodes/edit.php:2617 shortcodes/vc-shortcodes/submit.php:482
+#: shortcodes/vc-shortcodes/submit.php:1898
+#: shortcodes/vc-shortcodes/submit.php:1975
+msgid "Something is missing! Please fill out all fields highlighted in red."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:507
+#: shortcodes/vc-shortcodes/edit.php:479
+msgid "Primary listing details"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:515
+#: shortcodes/elementor-shortcodes/edit-listing.php:1588
+#: shortcodes/elementor-shortcodes/submit-listing.php:560
+#: shortcodes/elementor-shortcodes/submit-listing.php:1212
+#: shortcodes/vc-shortcodes/edit.php:487 shortcodes/vc-shortcodes/edit.php:1559
+#: shortcodes/vc-shortcodes/submit.php:533
+#: shortcodes/vc-shortcodes/submit.php:1187
+msgid ""
+"Put your listing title here and tell the name of your business to the world."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:518
+#: shortcodes/elementor-shortcodes/submit-listing.php:563
+#: shortcodes/elementor-shortcodes/submit-listing.php:566
+#: shortcodes/vc-shortcodes/edit.php:490 shortcodes/vc-shortcodes/submit.php:536
+#: shortcodes/vc-shortcodes/submit.php:539
+msgid ""
+"Enter your complete business name for when people who know your business by "
+"name and are looking you up."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:523
+#: shortcodes/elementor-shortcodes/submit-listing.php:583
+#: shortcodes/elementor-shortcodes/submit-listing.php:584
+#: shortcodes/vc-shortcodes/edit.php:495 shortcodes/vc-shortcodes/submit.php:556
+#: shortcodes/vc-shortcodes/submit.php:557
+msgid "Tagline"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:523
+#: shortcodes/elementor-shortcodes/submit-listing.php:584
+#: shortcodes/vc-shortcodes/edit.php:495 shortcodes/vc-shortcodes/submit.php:557
+msgid ""
+"For businesses, taglines are of importance as they help business convey what "
+"they want to do and their goals to the customers."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:523
+#: shortcodes/elementor-shortcodes/edit-listing.php:1596
+#: shortcodes/elementor-shortcodes/submit-listing.php:584
+#: shortcodes/elementor-shortcodes/submit-listing.php:1230
+#: shortcodes/vc-shortcodes/edit.php:495 shortcodes/vc-shortcodes/edit.php:1567
+#: shortcodes/vc-shortcodes/submit.php:557
+#: shortcodes/vc-shortcodes/submit.php:1205
+msgid "10 Years+ Experiance"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:531
+#: shortcodes/elementor-shortcodes/edit-listing.php:1846
+#: shortcodes/elementor-shortcodes/submit-listing.php:591
+#: shortcodes/elementor-shortcodes/submit-listing.php:1370
+#: shortcodes/vc-shortcodes/edit.php:503 shortcodes/vc-shortcodes/edit.php:1817
+#: shortcodes/vc-shortcodes/submit.php:564
+#: shortcodes/vc-shortcodes/submit.php:1345
+msgid "Search By Google"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:532
+#: shortcodes/elementor-shortcodes/edit-listing.php:1847
+#: shortcodes/elementor-shortcodes/submit-listing.php:592
+#: shortcodes/elementor-shortcodes/submit-listing.php:1371
+#: shortcodes/vc-shortcodes/edit.php:504 shortcodes/vc-shortcodes/edit.php:1818
+#: shortcodes/vc-shortcodes/submit.php:565
+#: shortcodes/vc-shortcodes/submit.php:1346
+msgid "Manual Coordinates"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:535
+#: shortcodes/elementor-shortcodes/edit-listing.php:1850
+#: shortcodes/elementor-shortcodes/submit-listing.php:595
+#: shortcodes/elementor-shortcodes/submit-listing.php:1374
+#: shortcodes/vc-shortcodes/edit.php:507 shortcodes/vc-shortcodes/edit.php:1821
+#: shortcodes/vc-shortcodes/submit.php:568
+#: shortcodes/vc-shortcodes/submit.php:1349
+msgid "Drop Pin"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:545
+#: shortcodes/elementor-shortcodes/edit-listing.php:1860
+#: shortcodes/elementor-shortcodes/submit-listing.php:604
+#: shortcodes/elementor-shortcodes/submit-listing.php:1383
+#: shortcodes/vc-shortcodes/edit.php:517 shortcodes/vc-shortcodes/edit.php:1831
+#: shortcodes/vc-shortcodes/submit.php:577
+#: shortcodes/vc-shortcodes/submit.php:1358
+msgid ""
+"Start typing and select your google location from google suggestions. This is "
+"for the map and also for locating your business."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:549
+#: shortcodes/elementor-shortcodes/submit-listing.php:608
+#: shortcodes/elementor-shortcodes/submit-listing.php:680
+#: shortcodes/vc-shortcodes/edit.php:521 shortcodes/vc-shortcodes/submit.php:581
+#: shortcodes/vc-shortcodes/submit.php:654
+msgid "Full Address"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:549
+#: shortcodes/elementor-shortcodes/submit-listing.php:608
+#: shortcodes/elementor-shortcodes/submit-listing.php:680
+#: shortcodes/vc-shortcodes/edit.php:521 shortcodes/vc-shortcodes/submit.php:581
+#: shortcodes/vc-shortcodes/submit.php:654
+msgid ""
+"Provide your full address for your business to show up on the map and your "
+"customer can get direction."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:549
+#: shortcodes/elementor-shortcodes/edit-listing.php:1864
+#: shortcodes/vc-shortcodes/edit.php:521 shortcodes/vc-shortcodes/edit.php:1835
+msgid "Your address for google map"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:552
+#: shortcodes/elementor-shortcodes/edit-listing.php:1867
+#: shortcodes/elementor-shortcodes/submit-listing.php:611
+#: shortcodes/elementor-shortcodes/submit-listing.php:1390
+#: shortcodes/vc-shortcodes/edit.php:524 shortcodes/vc-shortcodes/edit.php:1838
+#: shortcodes/vc-shortcodes/submit.php:584
+#: shortcodes/vc-shortcodes/submit.php:1365
+msgid "Add address here"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:555
+#: shortcodes/elementor-shortcodes/edit-listing.php:1870
+#: shortcodes/elementor-shortcodes/submit-listing.php:614
+#: shortcodes/elementor-shortcodes/submit-listing.php:1393
+#: shortcodes/vc-shortcodes/edit.php:527 shortcodes/vc-shortcodes/edit.php:1841
+#: shortcodes/vc-shortcodes/submit.php:587
+#: shortcodes/vc-shortcodes/submit.php:1368
+msgid "Latitude"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:559
+#: shortcodes/elementor-shortcodes/edit-listing.php:1874
+#: shortcodes/elementor-shortcodes/submit-listing.php:618
+#: shortcodes/elementor-shortcodes/submit-listing.php:1397
+#: shortcodes/vc-shortcodes/edit.php:531 shortcodes/vc-shortcodes/edit.php:1845
+#: shortcodes/vc-shortcodes/submit.php:591
+#: shortcodes/vc-shortcodes/submit.php:1372
+msgid "Longitude"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:576
+#: shortcodes/elementor-shortcodes/edit-listing.php:692
+#: shortcodes/elementor-shortcodes/edit-listing.php:1626
+#: shortcodes/elementor-shortcodes/edit-listing.php:1742
+#: shortcodes/elementor-shortcodes/submit-listing.php:639
+#: shortcodes/elementor-shortcodes/submit-listing.php:657
+#: shortcodes/elementor-shortcodes/submit-listing.php:671
+#: shortcodes/elementor-shortcodes/submit-listing.php:1259
+#: shortcodes/elementor-shortcodes/submit-listing.php:1283
+#: shortcodes/elementor-shortcodes/submit-listing.php:1303
+#: shortcodes/vc-shortcodes/edit.php:548 shortcodes/vc-shortcodes/edit.php:664
+#: shortcodes/vc-shortcodes/edit.php:1597 shortcodes/vc-shortcodes/edit.php:1713
+#: shortcodes/vc-shortcodes/submit.php:613 shortcodes/vc-shortcodes/submit.php:631
+#: shortcodes/vc-shortcodes/submit.php:645
+#: shortcodes/vc-shortcodes/submit.php:1234
+#: shortcodes/vc-shortcodes/submit.php:1258
+#: shortcodes/vc-shortcodes/submit.php:1278
+msgid "The city name will help users find you in search filters."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:589
+#: shortcodes/elementor-shortcodes/edit-listing.php:678
+#: shortcodes/elementor-shortcodes/edit-listing.php:1639
+#: shortcodes/elementor-shortcodes/edit-listing.php:1728
+#: shortcodes/elementor-shortcodes/submit-listing.php:642
+#: shortcodes/elementor-shortcodes/submit-listing.php:660
+#: shortcodes/elementor-shortcodes/submit-listing.php:676
+#: shortcodes/elementor-shortcodes/submit-listing.php:680
+#: shortcodes/elementor-shortcodes/submit-listing.php:1265
+#: shortcodes/elementor-shortcodes/submit-listing.php:1289
+#: shortcodes/elementor-shortcodes/submit-listing.php:1309
+#: shortcodes/elementor-shortcodes/submit-listing.php:1311
+#: shortcodes/vc-shortcodes/edit.php:561 shortcodes/vc-shortcodes/edit.php:650
+#: shortcodes/vc-shortcodes/edit.php:1610 shortcodes/vc-shortcodes/edit.php:1699
+#: shortcodes/vc-shortcodes/submit.php:616 shortcodes/vc-shortcodes/submit.php:634
+#: shortcodes/vc-shortcodes/submit.php:650 shortcodes/vc-shortcodes/submit.php:654
+#: shortcodes/vc-shortcodes/submit.php:1240
+#: shortcodes/vc-shortcodes/submit.php:1264
+#: shortcodes/vc-shortcodes/submit.php:1284
+#: shortcodes/vc-shortcodes/submit.php:1286
+msgid "select your listing region"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:697
+#: shortcodes/elementor-shortcodes/edit-listing.php:699
+#: shortcodes/elementor-shortcodes/submit-listing.php:676
+#: shortcodes/vc-shortcodes/edit.php:669 shortcodes/vc-shortcodes/edit.php:671
+#: shortcodes/vc-shortcodes/submit.php:650
+msgid "City"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:697
+#: shortcodes/elementor-shortcodes/edit-listing.php:699
+#: shortcodes/elementor-shortcodes/submit-listing.php:676
+#: shortcodes/vc-shortcodes/edit.php:669 shortcodes/vc-shortcodes/edit.php:671
+#: shortcodes/vc-shortcodes/submit.php:650
+msgid ""
+"Provide your city name for your business to show up on the map and your "
+"customer can get direction."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:697
+#: shortcodes/elementor-shortcodes/edit-listing.php:699
+#: shortcodes/elementor-shortcodes/edit-listing.php:1747
+#: shortcodes/elementor-shortcodes/edit-listing.php:1749
+#: shortcodes/vc-shortcodes/edit.php:669 shortcodes/vc-shortcodes/edit.php:671
+#: shortcodes/vc-shortcodes/edit.php:1718 shortcodes/vc-shortcodes/edit.php:1720
+msgid "Select your listing region"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:701
+#: shortcodes/elementor-shortcodes/edit-listing.php:1753
+#: shortcodes/vc-shortcodes/edit.php:673 shortcodes/vc-shortcodes/edit.php:1724
+msgid "Select Location"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:792
+#: shortcodes/elementor-shortcodes/submit-listing.php:738
+#: shortcodes/vc-shortcodes/edit.php:764 shortcodes/vc-shortcodes/submit.php:713
+msgid ""
+"Local phone numbers drive 3x more calls than toll-free numbers. Always use a "
+"business phone number and avoid personal phone numbers if possible."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:792
+#: shortcodes/elementor-shortcodes/edit-listing.php:1889
+#: shortcodes/vc-shortcodes/edit.php:764 shortcodes/vc-shortcodes/edit.php:1860
+msgid "Your contact number"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:801
+#: shortcodes/elementor-shortcodes/edit-listing.php:1898
+#: shortcodes/elementor-shortcodes/submit-listing.php:745
+#: shortcodes/elementor-shortcodes/submit-listing.php:1418
+#: shortcodes/vc-shortcodes/edit.php:773 shortcodes/vc-shortcodes/edit.php:1869
+#: shortcodes/vc-shortcodes/submit.php:720
+#: shortcodes/vc-shortcodes/submit.php:1393
+msgid "+44994981258"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:807
+#: shortcodes/elementor-shortcodes/edit-listing.php:808
+#: shortcodes/elementor-shortcodes/edit-listing.php:1904
+#: shortcodes/elementor-shortcodes/submit-listing.php:756
+#: shortcodes/vc-shortcodes/edit.php:779 shortcodes/vc-shortcodes/edit.php:780
+#: shortcodes/vc-shortcodes/edit.php:1875 shortcodes/vc-shortcodes/submit.php:731
+msgid "Website"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:808
+#: shortcodes/vc-shortcodes/edit.php:780
+msgid ""
+"Its recommended to provide official website url and avoid landing pages "
+"designed for a specific campaign."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:808
+#: shortcodes/elementor-shortcodes/edit-listing.php:1905
+#: shortcodes/vc-shortcodes/edit.php:780 shortcodes/vc-shortcodes/edit.php:1876
+msgid "Your web URL"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:817
+#: shortcodes/elementor-shortcodes/edit-listing.php:826
+#: shortcodes/elementor-shortcodes/edit-listing.php:830
+#: shortcodes/elementor-shortcodes/submit-listing.php:766
+#: shortcodes/elementor-shortcodes/submit-listing.php:774
+#: shortcodes/elementor-shortcodes/submit-listing.php:783
+#: shortcodes/vc-shortcodes/edit.php:789 shortcodes/vc-shortcodes/edit.php:798
+#: shortcodes/vc-shortcodes/edit.php:802 shortcodes/vc-shortcodes/submit.php:741
+#: shortcodes/vc-shortcodes/submit.php:749 shortcodes/vc-shortcodes/submit.php:758
+#: shortcodes/vc-shortcodes/submit.php:763
+msgid "Speciality"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:826
+#: shortcodes/elementor-shortcodes/edit-listing.php:830
+#: shortcodes/elementor-shortcodes/submit-listing.php:774
+#: shortcodes/elementor-shortcodes/submit-listing.php:783
+#: shortcodes/elementor-shortcodes/submit-listing.php:788
+#: shortcodes/vc-shortcodes/edit.php:798 shortcodes/vc-shortcodes/edit.php:802
+#: shortcodes/vc-shortcodes/submit.php:749 shortcodes/vc-shortcodes/submit.php:758
+#: shortcodes/vc-shortcodes/submit.php:763
+msgid ""
+"The more specific you get with your categories, the better. You do still want "
+"to stay relevant to your business, though. If you ever choose to run ads "
+"campaign, your ad will be shown on those categories you select."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:826
+#: shortcodes/elementor-shortcodes/edit-listing.php:830
+#: shortcodes/elementor-shortcodes/edit-listing.php:1927
+#: shortcodes/elementor-shortcodes/edit-listing.php:1931
+#: shortcodes/vc-shortcodes/edit.php:798 shortcodes/vc-shortcodes/edit.php:802
+#: shortcodes/vc-shortcodes/edit.php:1898 shortcodes/vc-shortcodes/edit.php:1902
+msgid "Choose one categories"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:847
+#: shortcodes/elementor-shortcodes/submit-listing.php:790
+#: shortcodes/vc-shortcodes/edit.php:819 shortcodes/vc-shortcodes/submit.php:765
+msgid "Select Speciality"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1008
+#: shortcodes/elementor-shortcodes/edit-listing.php:2123
+#: shortcodes/vc-shortcodes/edit.php:980 shortcodes/vc-shortcodes/edit.php:2094
+msgid "Additional Business Info"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1023
+#: shortcodes/vc-shortcodes/edit.php:995
+msgid ""
+"The more specific you get with your Insurances, the better. You do still want "
+"to stay relevant to your business, though. If you ever choose to run ads "
+"campaign, your ad will be shown on those Insurances you select."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1023
+#: shortcodes/vc-shortcodes/edit.php:995
+msgid "Choose one Insurances"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1025
+#: shortcodes/elementor-shortcodes/edit-listing.php:2144
+#: shortcodes/elementor-shortcodes/submit-listing.php:893
+#: shortcodes/elementor-shortcodes/submit-listing.php:1585
+#: shortcodes/vc-shortcodes/edit.php:997 shortcodes/vc-shortcodes/edit.php:2115
+#: shortcodes/vc-shortcodes/submit.php:868
+#: shortcodes/vc-shortcodes/submit.php:1560
+msgid "Select Insurance"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1056
+#: shortcodes/vc-shortcodes/edit.php:1028
+msgid ""
+"The more specific you get with your Awards, the better. You do still want to "
+"stay relevant to your business, though. If you ever choose to run ads campaign, "
+"your ad will be shown on those Awards you select."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1056
+#: shortcodes/vc-shortcodes/edit.php:1028
+msgid "Choose one Awards"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1058
+#: shortcodes/elementor-shortcodes/edit-listing.php:2168
+#: shortcodes/elementor-shortcodes/submit-listing.php:920
+#: shortcodes/elementor-shortcodes/submit-listing.php:1604
+#: shortcodes/vc-shortcodes/edit.php:1030 shortcodes/vc-shortcodes/edit.php:2139
+#: shortcodes/vc-shortcodes/submit.php:895
+#: shortcodes/vc-shortcodes/submit.php:1579
+msgid "Select Award"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1084
+#: shortcodes/elementor-shortcodes/submit-listing.php:934
+#: shortcodes/vc-shortcodes/edit.php:1056 shortcodes/vc-shortcodes/submit.php:909
+msgid "Extra Features"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1131
+#: shortcodes/elementor-shortcodes/submit-listing.php:955
+#: shortcodes/vc-shortcodes/edit.php:1102 shortcodes/vc-shortcodes/submit.php:930
+msgid "Video Consultation Room URL"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1132
+#: shortcodes/elementor-shortcodes/submit-listing.php:956
+#: shortcodes/vc-shortcodes/edit.php:1103 shortcodes/vc-shortcodes/submit.php:931
+msgid "https://example.com/live/?roomID=123"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1144
+#: shortcodes/elementor-shortcodes/submit-listing.php:968
+#: shortcodes/vc-shortcodes/edit.php:1115 shortcodes/vc-shortcodes/submit.php:943
+msgid "price details"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1152
+#: shortcodes/elementor-shortcodes/edit-listing.php:2196
+#: shortcodes/elementor-shortcodes/submit-listing.php:979
+#: shortcodes/elementor-shortcodes/submit-listing.php:1631
+#: shortcodes/vc-shortcodes/edit.php:1123 shortcodes/vc-shortcodes/edit.php:2167
+#: shortcodes/vc-shortcodes/submit.php:954
+#: shortcodes/vc-shortcodes/submit.php:1606
+msgid "Not to say"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1153
+#: shortcodes/elementor-shortcodes/edit-listing.php:2197
+#: shortcodes/elementor-shortcodes/submit-listing.php:980
+#: shortcodes/elementor-shortcodes/submit-listing.php:1632
+#: shortcodes/vc-shortcodes/edit.php:1124 shortcodes/vc-shortcodes/edit.php:2168
+#: shortcodes/vc-shortcodes/submit.php:955
+#: shortcodes/vc-shortcodes/submit.php:1607 templates/sidebar-filter.php:247
+msgid "Inexpensive"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1154
+#: shortcodes/elementor-shortcodes/edit-listing.php:2198
+#: shortcodes/elementor-shortcodes/submit-listing.php:981
+#: shortcodes/elementor-shortcodes/submit-listing.php:1633
+#: shortcodes/vc-shortcodes/edit.php:1125 shortcodes/vc-shortcodes/edit.php:2169
+#: shortcodes/vc-shortcodes/submit.php:956
+#: shortcodes/vc-shortcodes/submit.php:1608 templates/sidebar-filter.php:248
+msgid "Moderate"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1155
+#: shortcodes/elementor-shortcodes/edit-listing.php:2199
+#: shortcodes/elementor-shortcodes/submit-listing.php:982
+#: shortcodes/elementor-shortcodes/submit-listing.php:1634
+#: shortcodes/vc-shortcodes/edit.php:1126 shortcodes/vc-shortcodes/edit.php:2170
+#: shortcodes/vc-shortcodes/submit.php:957
+#: shortcodes/vc-shortcodes/submit.php:1609 templates/sidebar-filter.php:249
+msgid "Pricey"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1156
+#: shortcodes/elementor-shortcodes/edit-listing.php:2200
+#: shortcodes/elementor-shortcodes/submit-listing.php:983
+#: shortcodes/elementor-shortcodes/submit-listing.php:1635
+#: shortcodes/vc-shortcodes/edit.php:1127 shortcodes/vc-shortcodes/edit.php:2171
+#: shortcodes/vc-shortcodes/submit.php:958
+#: shortcodes/vc-shortcodes/submit.php:1610
+msgid "Ultra High"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1163
+#: shortcodes/elementor-shortcodes/submit-listing.php:978
+#: shortcodes/vc-shortcodes/edit.php:1134 shortcodes/vc-shortcodes/submit.php:953
+#: templates/sidebar-filter.php:241
+msgid "Price Range"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1163
+#: shortcodes/elementor-shortcodes/submit-listing.php:978
+#: shortcodes/vc-shortcodes/edit.php:1134 shortcodes/vc-shortcodes/submit.php:953
+msgid ""
+"Setting a price range can help attract the right targeted audience and will "
+"avoid any awkward situations for both customers and the owner."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1192
+#: shortcodes/elementor-shortcodes/submit-listing.php:992
+#: shortcodes/elementor-shortcodes/submit-listing.php:1644
+#: shortcodes/vc-shortcodes/edit.php:1163 shortcodes/vc-shortcodes/submit.php:967
+#: shortcodes/vc-shortcodes/submit.php:1619
+msgid "Price From"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1192
+#: shortcodes/elementor-shortcodes/edit-listing.php:1199
+#: shortcodes/elementor-shortcodes/edit-listing.php:1260
+#: shortcodes/elementor-shortcodes/submit-listing.php:992
+#: shortcodes/elementor-shortcodes/submit-listing.php:999
+#: shortcodes/elementor-shortcodes/submit-listing.php:1041
+#: shortcodes/vc-shortcodes/edit.php:1163 shortcodes/vc-shortcodes/edit.php:1170
+#: shortcodes/vc-shortcodes/edit.php:1231 shortcodes/vc-shortcodes/submit.php:967
+#: shortcodes/vc-shortcodes/submit.php:974
+#: shortcodes/vc-shortcodes/submit.php:1016
+msgid ""
+"Being honest with your customers can build a strong relationship. Dont hesitate "
+"to include."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1192
+#: shortcodes/elementor-shortcodes/edit-listing.php:2236
+#: shortcodes/vc-shortcodes/edit.php:1163 shortcodes/vc-shortcodes/edit.php:2207
+msgid "Only Digits"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1199
+#: shortcodes/elementor-shortcodes/edit-listing.php:2243
+#: shortcodes/elementor-shortcodes/submit-listing.php:999
+#: shortcodes/elementor-shortcodes/submit-listing.php:1651
+#: shortcodes/vc-shortcodes/edit.php:1170 shortcodes/vc-shortcodes/edit.php:2214
+#: shortcodes/vc-shortcodes/submit.php:974
+#: shortcodes/vc-shortcodes/submit.php:1626
+msgid "Price To"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1211
+#: shortcodes/elementor-shortcodes/submit-listing.php:1014
+#: shortcodes/vc-shortcodes/edit.php:1182 shortcodes/vc-shortcodes/submit.php:989
+msgid "Business Hours"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1211
+#: shortcodes/elementor-shortcodes/submit-listing.php:1014
+#: shortcodes/vc-shortcodes/edit.php:1182 shortcodes/vc-shortcodes/submit.php:989
+msgid ""
+"You dont want your customers to stop by when you are closed so always try to "
+"keep your hour up to date. Keeping your store closed when your business "
+"indicate its open on the directory could lead to a negative review."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1211
+#: shortcodes/elementor-shortcodes/submit-listing.php:1014
+#: shortcodes/vc-shortcodes/edit.php:1182 shortcodes/vc-shortcodes/submit.php:989
+msgid "business hours"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1229
+#: shortcodes/elementor-shortcodes/submit-listing.php:1033
+#: shortcodes/vc-shortcodes/edit.php:1200 shortcodes/vc-shortcodes/submit.php:1008
+msgid "social media"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1235
+#: shortcodes/elementor-shortcodes/edit-listing.php:1265
+#: shortcodes/elementor-shortcodes/edit-listing.php:2386
+#: shortcodes/elementor-shortcodes/submit-listing.php:1046
+#: shortcodes/elementor-shortcodes/submit-listing.php:1720
+#: shortcodes/vc-shortcodes/edit.php:1206 shortcodes/vc-shortcodes/edit.php:1236
+#: shortcodes/vc-shortcodes/edit.php:2357 shortcodes/vc-shortcodes/submit.php:1021
+#: shortcodes/vc-shortcodes/submit.php:1695
+msgid "Twitter"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1239
+#: shortcodes/elementor-shortcodes/edit-listing.php:1264
+#: shortcodes/elementor-shortcodes/edit-listing.php:2393
+#: shortcodes/elementor-shortcodes/submit-listing.php:1045
+#: shortcodes/elementor-shortcodes/submit-listing.php:1727
+#: shortcodes/vc-shortcodes/edit.php:1210 shortcodes/vc-shortcodes/edit.php:1235
+#: shortcodes/vc-shortcodes/edit.php:2364 shortcodes/vc-shortcodes/submit.php:1020
+#: shortcodes/vc-shortcodes/submit.php:1702
+msgid "Facebook"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1243
+#: shortcodes/elementor-shortcodes/edit-listing.php:1263
+#: shortcodes/elementor-shortcodes/edit-listing.php:2400
+#: shortcodes/elementor-shortcodes/submit-listing.php:1044
+#: shortcodes/elementor-shortcodes/submit-listing.php:1734
+#: shortcodes/vc-shortcodes/edit.php:1214 shortcodes/vc-shortcodes/edit.php:1234
+#: shortcodes/vc-shortcodes/edit.php:2371 shortcodes/vc-shortcodes/submit.php:1019
+#: shortcodes/vc-shortcodes/submit.php:1709
+msgid "LinkedIn"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1247
+#: shortcodes/elementor-shortcodes/edit-listing.php:1262
+#: shortcodes/elementor-shortcodes/edit-listing.php:2407
+#: shortcodes/elementor-shortcodes/submit-listing.php:1043
+#: shortcodes/elementor-shortcodes/submit-listing.php:1741
+#: shortcodes/vc-shortcodes/edit.php:1218 shortcodes/vc-shortcodes/edit.php:1233
+#: shortcodes/vc-shortcodes/edit.php:2378 shortcodes/vc-shortcodes/submit.php:1018
+#: shortcodes/vc-shortcodes/submit.php:1716
+msgid "Youtube"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1251
+#: shortcodes/elementor-shortcodes/edit-listing.php:1261
+#: shortcodes/elementor-shortcodes/edit-listing.php:2414
+#: shortcodes/elementor-shortcodes/submit-listing.php:1042
+#: shortcodes/elementor-shortcodes/submit-listing.php:1748
+#: shortcodes/vc-shortcodes/edit.php:1222 shortcodes/vc-shortcodes/edit.php:1232
+#: shortcodes/vc-shortcodes/edit.php:2385 shortcodes/vc-shortcodes/submit.php:1017
+#: shortcodes/vc-shortcodes/submit.php:1723
+msgid "Instagram"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1258
+#: shortcodes/elementor-shortcodes/submit-listing.php:1039
+#: shortcodes/vc-shortcodes/edit.php:1229 shortcodes/vc-shortcodes/submit.php:1014
+msgid "Select"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1260
+#: shortcodes/elementor-shortcodes/edit-listing.php:1269
+#: shortcodes/elementor-shortcodes/submit-listing.php:1041
+#: shortcodes/elementor-shortcodes/submit-listing.php:1050
+#: shortcodes/vc-shortcodes/edit.php:1231 shortcodes/vc-shortcodes/edit.php:1240
+#: shortcodes/vc-shortcodes/submit.php:1016
+#: shortcodes/vc-shortcodes/submit.php:1025
+msgid "Social Media"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1260
+#: shortcodes/elementor-shortcodes/submit-listing.php:1041
+#: shortcodes/vc-shortcodes/edit.php:1231 shortcodes/vc-shortcodes/submit.php:1016
+msgid "Please Select"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1281
+#: shortcodes/elementor-shortcodes/submit-listing.php:1062
+#: shortcodes/vc-shortcodes/edit.php:1252 shortcodes/vc-shortcodes/submit.php:1037
+msgid "frequently asked questions"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1310
+#: shortcodes/elementor-shortcodes/submit-listing.php:1073
+#: shortcodes/elementor-shortcodes/submit-listing.php:1680
+#: shortcodes/vc-shortcodes/edit.php:1281 shortcodes/vc-shortcodes/submit.php:1048
+#: shortcodes/vc-shortcodes/submit.php:1655
+msgid "FAQ"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1310
+#: shortcodes/elementor-shortcodes/edit-listing.php:1312
+#: shortcodes/elementor-shortcodes/submit-listing.php:1073
+#: shortcodes/elementor-shortcodes/submit-listing.php:1076
+#: shortcodes/vc-shortcodes/edit.php:1281 shortcodes/vc-shortcodes/edit.php:1283
+#: shortcodes/vc-shortcodes/submit.php:1048
+#: shortcodes/vc-shortcodes/submit.php:1051
+msgid ""
+"Share some of the most asked question and answers so they know you are serious "
+"about your business and truly care for your customers."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1310
+#: shortcodes/elementor-shortcodes/edit-listing.php:2293
+#: shortcodes/vc-shortcodes/edit.php:1281 shortcodes/vc-shortcodes/edit.php:2264
+msgid "Questions"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1312
+#: shortcodes/elementor-shortcodes/submit-listing.php:1076
+#: shortcodes/vc-shortcodes/edit.php:1283 shortcodes/vc-shortcodes/submit.php:1051
+msgid "FAQ Answers"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1312
+#: shortcodes/elementor-shortcodes/edit-listing.php:1370
+#: shortcodes/elementor-shortcodes/edit-listing.php:2296
+#: shortcodes/elementor-shortcodes/submit-listing.php:1076
+#: shortcodes/elementor-shortcodes/submit-listing.php:1683
+#: shortcodes/vc-shortcodes/edit.php:1283 shortcodes/vc-shortcodes/edit.php:1341
+#: shortcodes/vc-shortcodes/edit.php:2267 shortcodes/vc-shortcodes/submit.php:1051
+#: shortcodes/vc-shortcodes/submit.php:1658
+msgid "Answer"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1325
+#: shortcodes/elementor-shortcodes/edit-listing.php:1367
+#: shortcodes/elementor-shortcodes/edit-listing.php:2307
+#: shortcodes/elementor-shortcodes/edit-listing.php:2352
+#: shortcodes/vc-shortcodes/edit.php:1296 shortcodes/vc-shortcodes/edit.php:1338
+#: shortcodes/vc-shortcodes/edit.php:2278 shortcodes/vc-shortcodes/edit.php:2323
+msgid "FAQ 1"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1389
+#: shortcodes/elementor-shortcodes/submit-listing.php:1095
+#: shortcodes/vc-shortcodes/edit.php:1360 shortcodes/vc-shortcodes/submit.php:1070
+msgid ""
+"Tell briefly what your customers what to hear about your business has to offer "
+"that is unique and you do better then everyone else."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1389
+#: shortcodes/elementor-shortcodes/submit-listing.php:1095
+#: shortcodes/vc-shortcodes/edit.php:1360 shortcodes/vc-shortcodes/submit.php:1070
+msgid "more info"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1403
+#: shortcodes/elementor-shortcodes/edit-listing.php:2429
+#: shortcodes/elementor-shortcodes/submit-listing.php:1109
+#: shortcodes/elementor-shortcodes/submit-listing.php:1763
+#: shortcodes/vc-shortcodes/edit.php:1374 shortcodes/vc-shortcodes/edit.php:2400
+#: shortcodes/vc-shortcodes/submit.php:1084
+#: shortcodes/vc-shortcodes/submit.php:1738
+msgid ""
+"These keywords or tags will help your listing to find in search. Add a comma "
+"separated list of keywords related to your business."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1406
+#: shortcodes/elementor-shortcodes/edit-listing.php:2432
+#: shortcodes/elementor-shortcodes/submit-listing.php:1112
+#: shortcodes/elementor-shortcodes/submit-listing.php:1766
+#: shortcodes/vc-shortcodes/edit.php:1377 shortcodes/vc-shortcodes/edit.php:2403
+#: shortcodes/vc-shortcodes/submit.php:1087
+#: shortcodes/vc-shortcodes/submit.php:1741
+msgid "Enter tags or keywords comma separated..."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1418
+#: shortcodes/elementor-shortcodes/submit-listing.php:1121
+#: shortcodes/vc-shortcodes/edit.php:1389 shortcodes/vc-shortcodes/submit.php:1096
+msgid "media"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1424
+#: shortcodes/elementor-shortcodes/edit-listing.php:2449
+#: shortcodes/vc-shortcodes/edit.php:1395 shortcodes/vc-shortcodes/edit.php:2420
+msgid "Video "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1424
+#: shortcodes/elementor-shortcodes/edit-listing.php:2449
+#: shortcodes/elementor-shortcodes/submit-listing.php:1128
+#: shortcodes/elementor-shortcodes/submit-listing.php:1783
+#: shortcodes/vc-shortcodes/edit.php:1395 shortcodes/vc-shortcodes/edit.php:2420
+#: shortcodes/vc-shortcodes/submit.php:1103
+#: shortcodes/vc-shortcodes/submit.php:1758
+msgid "(Optional)"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1425
+#: shortcodes/elementor-shortcodes/submit-listing.php:1129
+#: shortcodes/vc-shortcodes/edit.php:1396 shortcodes/vc-shortcodes/submit.php:1104
+msgid "Video"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1425
+#: shortcodes/elementor-shortcodes/submit-listing.php:1129
+#: shortcodes/vc-shortcodes/edit.php:1396 shortcodes/vc-shortcodes/submit.php:1104
+msgid ""
+"Take it to next level and provide more details about what you have to offer. "
+"Select all that applies to you."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1425
+#: shortcodes/elementor-shortcodes/edit-listing.php:2450
+#: shortcodes/elementor-shortcodes/submit-listing.php:1129
+#: shortcodes/elementor-shortcodes/submit-listing.php:1784
+#: shortcodes/vc-shortcodes/edit.php:1396 shortcodes/vc-shortcodes/edit.php:2421
+#: shortcodes/vc-shortcodes/submit.php:1104
+#: shortcodes/vc-shortcodes/submit.php:1759
+msgid "ex: https://youtu.be/lY2yjAdbvdQ"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1453
+#: shortcodes/vc-shortcodes/edit.php:1424
+msgid "Gallery "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1455
+#: shortcodes/elementor-shortcodes/submit-listing.php:1793
+#: shortcodes/vc-shortcodes/submit.php:1114
+msgid "Gallery Images "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1462
+#: shortcodes/elementor-shortcodes/edit-listing.php:2485
+#: shortcodes/elementor-shortcodes/submit-listing.php:1146
+#: shortcodes/elementor-shortcodes/submit-listing.php:1800
+#: shortcodes/vc-shortcodes/edit.php:1433 shortcodes/vc-shortcodes/edit.php:2456
+#: shortcodes/vc-shortcodes/submit.php:1121
+#: shortcodes/vc-shortcodes/submit.php:1775
+msgid "Drop files here or click to upload"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1465
+#: shortcodes/elementor-shortcodes/edit-listing.php:2488
+#: shortcodes/elementor-shortcodes/submit-listing.php:1148
+#: shortcodes/elementor-shortcodes/submit-listing.php:1802
+#: shortcodes/vc-shortcodes/edit.php:1436 shortcodes/vc-shortcodes/edit.php:2459
+#: shortcodes/vc-shortcodes/submit.php:1123
+#: shortcodes/vc-shortcodes/submit.php:1777
+msgid "Browse Files"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1529
+#: shortcodes/elementor-shortcodes/edit-listing.php:2538
+#: shortcodes/vc-shortcodes/edit.php:1500 shortcodes/vc-shortcodes/edit.php:2509
+msgid "Change Profile Image"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1532
+#: shortcodes/elementor-shortcodes/edit-listing.php:2541
+#: shortcodes/elementor-shortcodes/submit-listing.php:1816
+#: shortcodes/vc-shortcodes/edit.php:1503 shortcodes/vc-shortcodes/edit.php:2512
+#: shortcodes/vc-shortcodes/submit.php:1138
+msgid "Upload Profile Image"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1539
+#: shortcodes/elementor-shortcodes/submit-listing.php:1166
+#: shortcodes/vc-shortcodes/edit.php:1510 shortcodes/vc-shortcodes/submit.php:1141
+msgid "Profile Image"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1539
+#: shortcodes/elementor-shortcodes/edit-listing.php:1556
+#: shortcodes/elementor-shortcodes/edit-listing.php:2548
+#: shortcodes/elementor-shortcodes/edit-listing.php:2560
+#: shortcodes/elementor-shortcodes/submit-listing.php:1166
+#: shortcodes/elementor-shortcodes/submit-listing.php:1179
+#: shortcodes/elementor-shortcodes/submit-listing.php:1820
+#: shortcodes/elementor-shortcodes/submit-listing.php:1833
+#: shortcodes/vc-shortcodes/edit.php:1510 shortcodes/vc-shortcodes/edit.php:1527
+#: shortcodes/vc-shortcodes/edit.php:2519 shortcodes/vc-shortcodes/edit.php:2531
+#: shortcodes/vc-shortcodes/submit.php:1141
+#: shortcodes/vc-shortcodes/submit.php:1154
+#: shortcodes/vc-shortcodes/submit.php:1795
+#: shortcodes/vc-shortcodes/submit.php:1808
+msgid "Choose a file"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1591
+#: shortcodes/elementor-shortcodes/edit-listing.php:1596
+#: shortcodes/vc-shortcodes/edit.php:1562 shortcodes/vc-shortcodes/edit.php:1567
+msgid ""
+"Put your listing title here and tell the name of your business to the world. "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1747
+#: shortcodes/vc-shortcodes/edit.php:1718
+msgid "This is test data for quick tip for location field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1749
+#: shortcodes/vc-shortcodes/edit.php:1720
+msgid "this is test data for quick tip for location field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1864
+#: shortcodes/vc-shortcodes/edit.php:1835
+msgid "this is test data for quick tip for address field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1889
+#: shortcodes/vc-shortcodes/edit.php:1860
+msgid "this is test data for quick tip for phone field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1905
+#: shortcodes/vc-shortcodes/edit.php:1876
+msgid "this is test data for quick tip for website field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:1949
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:104
+#: shortcodes/elementor-shortcodes/submit-listing.php:1470
+#: shortcodes/vc-shortcodes/edit.php:1920 shortcodes/vc-shortcodes/submit.php:1445
+#: shortcodes/vc-shortcodes/vc_special_elements.php:393
+msgid "Select Category"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2143
+#: shortcodes/elementor-shortcodes/submit-listing.php:892
+#: shortcodes/elementor-shortcodes/submit-listing.php:1584
+#: shortcodes/vc-shortcodes/edit.php:2114 shortcodes/vc-shortcodes/submit.php:867
+#: shortcodes/vc-shortcodes/submit.php:1559
+msgid "Choose Your Insurance"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2167
+#: shortcodes/elementor-shortcodes/submit-listing.php:919
+#: shortcodes/elementor-shortcodes/submit-listing.php:1603
+#: shortcodes/vc-shortcodes/edit.php:2138 shortcodes/vc-shortcodes/submit.php:894
+#: shortcodes/vc-shortcodes/submit.php:1578
+msgid "Choose Your Award"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2293
+#: shortcodes/vc-shortcodes/edit.php:2264
+msgid "this is test data for quick tip for faq field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2387
+#: shortcodes/elementor-shortcodes/submit-listing.php:1721
+#: shortcodes/vc-shortcodes/edit.php:2358 shortcodes/vc-shortcodes/submit.php:1696
+msgid "Your Twitter URL"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2394
+#: shortcodes/elementor-shortcodes/submit-listing.php:1728
+#: shortcodes/vc-shortcodes/edit.php:2365 shortcodes/vc-shortcodes/submit.php:1703
+msgid "Your Facebook URL"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2401
+#: shortcodes/elementor-shortcodes/submit-listing.php:1735
+#: shortcodes/vc-shortcodes/edit.php:2372 shortcodes/vc-shortcodes/submit.php:1710
+msgid "Your LinkedIn URL"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2408
+#: shortcodes/elementor-shortcodes/submit-listing.php:1742
+#: shortcodes/vc-shortcodes/edit.php:2379 shortcodes/vc-shortcodes/submit.php:1717
+msgid "Your Youtube URL"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2415
+#: shortcodes/elementor-shortcodes/submit-listing.php:1749
+#: shortcodes/vc-shortcodes/edit.php:2386 shortcodes/vc-shortcodes/submit.php:1724
+msgid "Your Instagram URL"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2450
+#: shortcodes/vc-shortcodes/edit.php:2421
+msgid "this is test data for quick tip for video field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2478
+#: shortcodes/elementor-shortcodes/submit-listing.php:1139
+#: shortcodes/vc-shortcodes/edit.php:2449 shortcodes/vc-shortcodes/submit.php:1768
+msgid "Images "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2593
+#: shortcodes/elementor-shortcodes/edit-listing.php:2632
+#: shortcodes/elementor-shortcodes/submit-listing.php:459
+#: shortcodes/elementor-shortcodes/submit-listing.php:1868
+#: shortcodes/elementor-shortcodes/submit-listing.php:1949
+#: shortcodes/vc-shortcodes/edit.php:2564 shortcodes/vc-shortcodes/edit.php:2603
+#: shortcodes/vc-shortcodes/submit.php:432
+#: shortcodes/vc-shortcodes/submit.php:1843
+#: shortcodes/vc-shortcodes/submit.php:1924
+msgid "your contact email"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/edit-listing.php:2607
+#: shortcodes/elementor-shortcodes/submit-listing.php:1919
+#: shortcodes/vc-shortcodes/edit.php:2578 shortcodes/vc-shortcodes/submit.php:1894
+msgid "Click below to review your listing."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:14
+msgid "Medicalpro Activities"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:34
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:49
+#: shortcodes/vc-shortcodes/vc_special_elements.php:120
+msgid "Posts per page"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:37
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:52
+#: shortcodes/vc-shortcodes/vc_special_elements.php:123
+#: shortcodes/vc-shortcodes/vc_special_elements.php:719
+msgid "3 Posts"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:38
+#: shortcodes/vc-shortcodes/vc_special_elements.php:720
+msgid "4 Posts"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:39
+#: shortcodes/vc-shortcodes/vc_special_elements.php:721
+msgid "5 Posts"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:97
+#: shortcodes/vc-shortcodes/vc_special_elements.php:772
+#: templates/loop/appview-grid.php:117
+msgid "Ad"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_activities.php:166
+#: shortcodes/vc-shortcodes/vc_special_elements.php:841
+#: templates/single-list/listing-details-style1/content/title-bar.php:195
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:20
+#: shortcodes/vc-shortcodes/vc_special_elements.php:362
+msgid "MedicalPro Taxonomy List"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:78
+#: shortcodes/vc-shortcodes/vc_special_elements.php:371
+msgid "Title for location"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:80
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:180
+#: shortcodes/vc-shortcodes/vc_special_elements.php:373
+#: shortcodes/vc-shortcodes/vc_special_elements.php:446
+#: templates/headers/mp-bottom-search.php:279
+#: templates/headers/mp-bottom-search.php:303
+msgid "Location"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:86
+msgid "Select locations"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:96
+#: shortcodes/vc-shortcodes/vc_special_elements.php:386
+msgid "Title for category"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:98
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:182
+#: shortcodes/vc-shortcodes/vc_special_elements.php:388
+#: shortcodes/vc-shortcodes/vc_special_elements.php:448
+msgid "Category"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:114
+#: shortcodes/vc-shortcodes/vc_special_elements.php:401
+msgid "Title for Feature"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:116
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:184
+#: shortcodes/vc-shortcodes/vc_special_elements.php:403
+#: shortcodes/vc-shortcodes/vc_special_elements.php:450
+msgid "Feature"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:122
+#: shortcodes/vc-shortcodes/vc_special_elements.php:408
+msgid "Select Feature"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:132
+#: shortcodes/vc-shortcodes/vc_special_elements.php:416
+msgid "Title for Hospital"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:150
+#: shortcodes/vc-shortcodes/vc_special_elements.php:432
+msgid "Order By"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:155
+#: shortcodes/vc-shortcodes/vc_special_elements.php:435
+msgid "ASC"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:156
+#: shortcodes/vc-shortcodes/vc_special_elements.php:436
+msgid "DESC"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:236
+#: shortcodes/vc-shortcodes/vc_special_elements.php:508
+#, php-format
+msgid "BROWSE BY %s"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:261
+#: shortcodes/vc-shortcodes/vc_special_elements.php:533
+msgid "Show More"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_cat_loc.php:261
+#: shortcodes/vc-shortcodes/vc_special_elements.php:533
+msgid "Show Less"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:14
+msgid "Medicalpro Columns"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:34
+#: shortcodes/vc-shortcodes/vc_special_elements.php:882
+msgid "Column Left Image"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:42
+#: shortcodes/vc-shortcodes/vc_special_elements.php:891
+msgid "First Column Title"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:50
+#: shortcodes/vc-shortcodes/vc_special_elements.php:898
+msgid "First Column Description"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:58
+#: shortcodes/vc-shortcodes/vc_special_elements.php:907
+msgid "First Column icon"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:66
+#: shortcodes/vc-shortcodes/vc_special_elements.php:916
+msgid "Second Column Title"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:74
+#: shortcodes/vc-shortcodes/vc_special_elements.php:923
+msgid "Second Column Description"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:82
+#: shortcodes/vc-shortcodes/vc_special_elements.php:932
+msgid "Second Column icon"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:90
+#: shortcodes/vc-shortcodes/vc_special_elements.php:941
+msgid "Third Column Title"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:98
+#: shortcodes/vc-shortcodes/vc_special_elements.php:948
+msgid "Third Column Description"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_columns.php:106
+#: shortcodes/vc-shortcodes/vc_special_elements.php:957
+msgid "Third Column icon"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:14
+msgid "Medicalpro Content Boxes"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:36
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:71
+msgid "PLANNING"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:44
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:72
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit v oluptatem accusantium or "
+"sit v oluptatem accusantiumor sit v oluptatem "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:50
+msgid "Upload Content Icon Image"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:57
+#: shortcodes/vc-shortcodes/vc_special_elements.php:635
+msgid "icon background color"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:66
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:50
+msgid "Repeater List"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:85
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:67
+msgid "Style"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:92
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:74
+msgid "Text Transform"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:95
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:77
+msgid "None"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:96
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:78
+msgid "UPPERCASE"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:97
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:79
+msgid "lowercase"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_contentboxes.php:98
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:80
+msgid "Capitalize"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:14
+msgid "Medicalpro Facts Element"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:34
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1093
+msgid "First fact Title"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:42
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1100
+msgid "First fact Title2"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:50
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1109
+msgid "First fact Img"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:57
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1118
+msgid "Second fact Title"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:65
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1125
+msgid "Second fact Title2"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:73
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1134
+msgid "Second fact icon"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:80
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1143
+msgid "Third fact Title"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:88
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1150
+msgid "Third fact Title2"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_facts.php:96
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1159
+msgid "Third fact icon"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:20
+msgid "Medicalpro Listings"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:53
+#: shortcodes/vc-shortcodes/vc_special_elements.php:124
+msgid "6 Posts"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:54
+#: shortcodes/vc-shortcodes/vc_special_elements.php:125
+msgid "9 Posts"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:55
+#: shortcodes/vc-shortcodes/vc_special_elements.php:126
+msgid "12 Posts"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:56
+#: shortcodes/vc-shortcodes/vc_special_elements.php:127
+msgid "15 Posts"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_listings.php:183
+#: shortcodes/vc-shortcodes/vc_special_elements.php:237
+msgid "https://via.placeholder.com/372x240"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:14
+msgid "Medicalpro Partners"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:34
+#: shortcodes/vc-shortcodes/vc_special_elements.php:66
+msgid "Logo Url"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:36
+msgid "#"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/medicalpro_partners.php:42
+msgid "Partner logo"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:14
+#: shortcodes/vc-shortcodes/submit.php:8
+msgid "Submit Listing"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:310
+#: shortcodes/elementor-shortcodes/submit-listing.php:318
+#: shortcodes/vc-shortcodes/submit.php:284 shortcodes/vc-shortcodes/submit.php:292
+msgid "Returning User? Please"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:310
+#: shortcodes/elementor-shortcodes/submit-listing.php:318
+#: shortcodes/vc-shortcodes/submit.php:284 shortcodes/vc-shortcodes/submit.php:292
+msgid "and if you are a "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:310
+#: shortcodes/elementor-shortcodes/submit-listing.php:318
+#: shortcodes/vc-shortcodes/submit.php:284 shortcodes/vc-shortcodes/submit.php:292
+msgid "New User, continue below "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:310
+#: shortcodes/elementor-shortcodes/submit-listing.php:318
+#: shortcodes/vc-shortcodes/submit.php:284 shortcodes/vc-shortcodes/submit.php:292
+msgid "and register along with this submission."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:404
+#: shortcodes/vc-shortcodes/submit.php:377
+msgid "Save & Preview"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:423
+#: shortcodes/vc-shortcodes/submit.php:396
+msgid "Feeling lazy? Say HELLO! to Fill-O-Bot! "
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:424
+#: shortcodes/vc-shortcodes/submit.php:397
+msgid ""
+"Don’t worry Fill-o-BOT will help you OUT! Just enter any business on google "
+"places and Fill-O-Bot automatically fills in the data that it can grab."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:428
+#: shortcodes/vc-shortcodes/submit.php:401
+msgid "Turn Me On"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:464
+#: shortcodes/elementor-shortcodes/submit-listing.php:1873
+#: shortcodes/elementor-shortcodes/submit-listing.php:1954
+#: shortcodes/vc-shortcodes/submit.php:437
+#: shortcodes/vc-shortcodes/submit.php:1848
+#: shortcodes/vc-shortcodes/submit.php:1929
+msgid "user name"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:470
+#: shortcodes/elementor-shortcodes/submit-listing.php:1879
+#: shortcodes/elementor-shortcodes/submit-listing.php:1960
+#: shortcodes/vc-shortcodes/submit.php:443
+#: shortcodes/vc-shortcodes/submit.php:1854
+#: shortcodes/vc-shortcodes/submit.php:1935
+msgid "enter username"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:471
+#: shortcodes/elementor-shortcodes/submit-listing.php:1880
+#: shortcodes/elementor-shortcodes/submit-listing.php:1961
+#: shortcodes/vc-shortcodes/submit.php:444
+#: shortcodes/vc-shortcodes/submit.php:1855
+#: shortcodes/vc-shortcodes/submit.php:1936
+msgid "Password"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:472
+#: shortcodes/elementor-shortcodes/submit-listing.php:1881
+#: shortcodes/elementor-shortcodes/submit-listing.php:1962
+#: shortcodes/vc-shortcodes/submit.php:445
+#: shortcodes/vc-shortcodes/submit.php:1856
+#: shortcodes/vc-shortcodes/submit.php:1937
+msgid "enter password"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:475
+#: shortcodes/elementor-shortcodes/submit-listing.php:1884
+#: shortcodes/elementor-shortcodes/submit-listing.php:1965
+#: shortcodes/vc-shortcodes/submit.php:448
+#: shortcodes/vc-shortcodes/submit.php:1859
+#: shortcodes/vc-shortcodes/submit.php:1940
+msgid "Already Have Account?"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:495
+#: shortcodes/elementor-shortcodes/submit-listing.php:1985
+#: shortcodes/vc-shortcodes/submit.php:468
+#: shortcodes/vc-shortcodes/submit.php:1960
+msgid "You agree you accept our Terms & Conditions for posting this ad."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:506
+#: shortcodes/elementor-shortcodes/submit-listing.php:1920
+#: shortcodes/elementor-shortcodes/submit-listing.php:1997
+#: shortcodes/vc-shortcodes/submit.php:479
+#: shortcodes/vc-shortcodes/submit.php:1895
+#: shortcodes/vc-shortcodes/submit.php:1972
+msgid "All of the fields were successfully validated!"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:551
+#: shortcodes/vc-shortcodes/submit.php:524
+msgid "primary listing details"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:563
+#: shortcodes/elementor-shortcodes/submit-listing.php:566
+#: shortcodes/elementor-shortcodes/submit-listing.php:1215
+#: shortcodes/elementor-shortcodes/submit-listing.php:1218
+#: shortcodes/vc-shortcodes/submit.php:536 shortcodes/vc-shortcodes/submit.php:539
+#: shortcodes/vc-shortcodes/submit.php:1190
+#: shortcodes/vc-shortcodes/submit.php:1193
+msgid "Dr. John Doe"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:577
+#: shortcodes/vc-shortcodes/submit.php:550
+msgid "Does Your Profile have a tagline?"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:608
+#: shortcodes/elementor-shortcodes/submit-listing.php:1387
+#: shortcodes/vc-shortcodes/submit.php:581
+#: shortcodes/vc-shortcodes/submit.php:1362
+msgid "Start typing and find your place in google map"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:615
+#: shortcodes/elementor-shortcodes/submit-listing.php:1394
+#: shortcodes/vc-shortcodes/submit.php:588
+#: shortcodes/vc-shortcodes/submit.php:1369
+msgid "40.7143528"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:619
+#: shortcodes/elementor-shortcodes/submit-listing.php:1398
+#: shortcodes/vc-shortcodes/submit.php:592
+#: shortcodes/vc-shortcodes/submit.php:1373
+msgid "-74.0059731"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:684
+#: shortcodes/elementor-shortcodes/submit-listing.php:1315
+#: shortcodes/vc-shortcodes/submit.php:658
+#: shortcodes/vc-shortcodes/submit.php:1290
+msgid "Select City"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:738
+#: shortcodes/elementor-shortcodes/submit-listing.php:1411
+#: shortcodes/vc-shortcodes/submit.php:713
+#: shortcodes/vc-shortcodes/submit.php:1386
+msgid "111-111-1234"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:745
+#: shortcodes/elementor-shortcodes/submit-listing.php:1418
+#: shortcodes/vc-shortcodes/submit.php:720
+#: shortcodes/vc-shortcodes/submit.php:1393
+msgid "Whatsapp no."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:745
+#: shortcodes/elementor-shortcodes/submit-listing.php:1418
+#: shortcodes/vc-shortcodes/submit.php:720
+#: shortcodes/vc-shortcodes/submit.php:1393
+msgid "Whatsapp no for listing detail page."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:756
+#: shortcodes/vc-shortcodes/submit.php:731
+msgid ""
+"Its recommended to provide official website url and avoid landing pages "
+"designed for a specific campaign"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:756
+#: shortcodes/elementor-shortcodes/submit-listing.php:1429
+#: shortcodes/vc-shortcodes/submit.php:731
+#: shortcodes/vc-shortcodes/submit.php:1404
+msgid "http://"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:774
+#: shortcodes/elementor-shortcodes/submit-listing.php:783
+#: shortcodes/elementor-shortcodes/submit-listing.php:788
+#: shortcodes/elementor-shortcodes/submit-listing.php:1455
+#: shortcodes/elementor-shortcodes/submit-listing.php:1465
+#: shortcodes/elementor-shortcodes/submit-listing.php:1468
+#: shortcodes/vc-shortcodes/submit.php:749 shortcodes/vc-shortcodes/submit.php:758
+#: shortcodes/vc-shortcodes/submit.php:763
+#: shortcodes/vc-shortcodes/submit.php:1430
+#: shortcodes/vc-shortcodes/submit.php:1440
+#: shortcodes/vc-shortcodes/submit.php:1443
+msgid "Choose Your Business Category"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:892
+#: shortcodes/vc-shortcodes/submit.php:867
+msgid ""
+"The more specific you get with your insurances, the better. You do still want "
+"to stay relevant to your business, though. If you ever choose to run ads "
+"campaign, your ad will be shown on those insurances you select."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:919
+#: shortcodes/vc-shortcodes/submit.php:894
+msgid ""
+"The more specific you get with your awards, the better. You do still want to "
+"stay relevant to your business, though. If you ever choose to run ads campaign, "
+"your ad will be shown on those awards you select."
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1098
+#: shortcodes/elementor-shortcodes/submit-listing.php:1668
+#: shortcodes/vc-shortcodes/submit.php:1073
+#: shortcodes/vc-shortcodes/submit.php:1643
+msgid "Detail description about your listing"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1163
+#: shortcodes/vc-shortcodes/submit.php:1791
+msgid "Upload Feature Image"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1166
+#: shortcodes/vc-shortcodes/submit.php:1141
+msgid "Quick tip for Profile images"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1215
+#: shortcodes/elementor-shortcodes/submit-listing.php:1218
+#: shortcodes/vc-shortcodes/submit.php:1190
+#: shortcodes/vc-shortcodes/submit.php:1193
+msgid "this is test data for quick tip for title field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1230
+#: shortcodes/vc-shortcodes/submit.php:1205
+msgid "this is test data for quick tip for tagline field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1309
+#: shortcodes/elementor-shortcodes/submit-listing.php:1311
+#: shortcodes/vc-shortcodes/submit.php:1284
+#: shortcodes/vc-shortcodes/submit.php:1286
+msgid "quick tip data for location field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1387
+#: shortcodes/vc-shortcodes/submit.php:1362
+msgid "this is test infor address field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1411
+#: shortcodes/vc-shortcodes/submit.php:1386
+msgid "this is quick tip info for phone field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1429
+#: shortcodes/vc-shortcodes/submit.php:1404
+msgid "this is quick tip info for website field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1680
+#: shortcodes/vc-shortcodes/submit.php:1655
+msgid "Quick tip on FAQ question"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1683
+#: shortcodes/vc-shortcodes/submit.php:1658
+msgid "this is test data for quick tip info of FAQ answer field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1784
+#: shortcodes/vc-shortcodes/submit.php:1759
+msgid "this is test data for quick tip info of Video field"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1791
+#: shortcodes/vc-shortcodes/submit.php:1766
+msgid "quick tip info for gallery"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1820
+#: shortcodes/vc-shortcodes/submit.php:1795
+msgid "quick tip for profile img"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1833
+#: shortcodes/vc-shortcodes/submit.php:1808
+msgid "quick tip for business logo"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1862
+#: shortcodes/vc-shortcodes/submit.php:1837
+msgid "quick tip for account section"
+msgstr ""
+
+#: shortcodes/elementor-shortcodes/submit-listing.php:1905
+#: shortcodes/vc-shortcodes/submit.php:1880
+msgid "You agree & accept our Terms & Conditions for submitting listing"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/edit.php:9 shortcodes/vc-shortcodes/submit.php:10
+#: shortcodes/vc-shortcodes/vc_special_elements.php:49
+#: shortcodes/vc-shortcodes/vc_special_elements.php:113
+#: shortcodes/vc-shortcodes/vc_special_elements.php:364
+#: shortcodes/vc-shortcodes/vc_special_elements.php:555
+#: shortcodes/vc-shortcodes/vc_special_elements.php:708
+#: shortcodes/vc-shortcodes/vc_special_elements.php:873
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1084
+msgid "Medicalpro"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/edit.php:1426
+msgid "Gallery Images"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:6
+msgid "MD Partners"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:17
+#: shortcodes/vc-shortcodes/vc_special_elements.php:565
+msgid "Element title"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:47
+msgid "MD Single Partner Logo"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:58
+msgid "Partner logo "
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:111
+msgid "MD Listings"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:378
+msgid "Select location"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:380
+#: shortcodes/vc-shortcodes/vc_special_elements.php:395
+#: shortcodes/vc-shortcodes/vc_special_elements.php:410
+#: shortcodes/vc-shortcodes/vc_special_elements.php:425
+msgid "Check the checkbox"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:430
+msgid "Order"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:553
+msgid "MD Content Boxes"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:597
+msgid "LP Single Content Box"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:599
+msgid "medicalpro"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:626
+msgid "Upload Content Icon iamge"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:639
+msgid "Choose text color"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:706
+msgid "MD Activities"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:716
+msgid "Number of Activities"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:871
+msgid "MD Columns Element"
+msgstr ""
+
+#: shortcodes/vc-shortcodes/vc_special_elements.php:1082
+msgid "MD Facts Element"
+msgstr ""
+
+#: templates/archive-hospital.php:93
+msgid "Beds"
+msgstr ""
+
+#: templates/archive-hospital.php:122
+#: templates/single-list/listing-details-style1/content/hospitals.php:117
+msgid "Call Now"
+msgstr ""
+
+#: templates/archive-hospital.php:144
+msgid "Address & Location"
+msgstr ""
+
+#: templates/archive-hospital.php:153
+msgid "Get Directions"
+msgstr ""
+
+#: templates/archive-hospital.php:158
+msgid "clock"
+msgstr ""
+
+#: templates/archive-hospital.php:193
+msgid "About Hospital"
+msgstr ""
+
+#: templates/archive-hospital.php:199 templates/author/author-banner.php:99
+#: templates/author/author-content.php:1
+msgid "Photos"
+msgstr ""
+
+#: templates/archive-hospital.php:219
+msgid "A"
+msgstr ""
+
+#: templates/archive-hospital.php:220
+msgid "B"
+msgstr ""
+
+#: templates/archive-hospital.php:221
+msgid "C"
+msgstr ""
+
+#: templates/archive-hospital.php:222
+msgid "D"
+msgstr ""
+
+#: templates/archive-hospital.php:223
+msgid "E"
+msgstr ""
+
+#: templates/archive-hospital.php:224
+msgid "F"
+msgstr ""
+
+#: templates/archive-hospital.php:225
+msgid "G"
+msgstr ""
+
+#: templates/archive-hospital.php:226
+msgid "H"
+msgstr ""
+
+#: templates/archive-hospital.php:227
+msgid "I"
+msgstr ""
+
+#: templates/archive-hospital.php:228
+msgid "J"
+msgstr ""
+
+#: templates/archive-hospital.php:229
+msgid "K"
+msgstr ""
+
+#: templates/archive-hospital.php:230
+msgid "L"
+msgstr ""
+
+#: templates/archive-hospital.php:231
+msgid "M"
+msgstr ""
+
+#: templates/archive-hospital.php:232
+msgid "N"
+msgstr ""
+
+#: templates/archive-hospital.php:233
+msgid "O"
+msgstr ""
+
+#: templates/archive-hospital.php:234
+msgid "P"
+msgstr ""
+
+#: templates/archive-hospital.php:235
+msgid "Q"
+msgstr ""
+
+#: templates/archive-hospital.php:236
+msgid "R"
+msgstr ""
+
+#: templates/archive-hospital.php:237
+msgid "S"
+msgstr ""
+
+#: templates/archive-hospital.php:238
+msgid "T"
+msgstr ""
+
+#: templates/archive-hospital.php:239
+msgid "U"
+msgstr ""
+
+#: templates/archive-hospital.php:240
+msgid "V"
+msgstr ""
+
+#: templates/archive-hospital.php:241
+msgid "W"
+msgstr ""
+
+#: templates/archive-hospital.php:242
+msgid "X"
+msgstr ""
+
+#: templates/archive-hospital.php:243
+msgid "Y"
+msgstr ""
+
+#: templates/archive-hospital.php:244
+msgid "Z"
+msgstr ""
+
+#: templates/archive-hospital.php:259 templates/sidebar-filter.php:144
+msgid "All Specialty"
+msgstr ""
+
+#: templates/author/author-about.php:59
+msgid "No info available"
+msgstr ""
+
+#: templates/author/author-about.php:68
+msgid "website"
+msgstr ""
+
+#: templates/author/author-about.php:99
+msgid "Social"
+msgstr ""
+
+#: templates/author/author-about.php:218
+msgid "No Review Found"
+msgstr ""
+
+#: templates/author/author-banner.php:52
+msgid "Joined In"
+msgstr ""
+
+#: templates/author/author-banner.php:90
+msgid "Reviews Submitted"
+msgstr ""
+
+#: templates/author/author-banner.php:108
+msgid "Listing"
+msgstr ""
+
+#: templates/author/author-contact.php:1
+msgid "Contact with business owner"
+msgstr ""
+
+#: templates/author/author-contact.php:1
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:118
+msgid "Name:"
+msgstr ""
+
+#: templates/author/author-contact.php:1
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:124
+msgid "Email:"
+msgstr ""
+
+#: templates/author/author-contact.php:1
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:134
+msgid "Message:"
+msgstr ""
+
+#: templates/author/author-contact.php:1
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:148
+msgid "You agree & accept our Terms & Conditions for submitting this information?"
+msgstr ""
+
+#: templates/author/author-contact.php:1
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:153
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:165
+msgid "Send"
+msgstr ""
+
+#: templates/author/author-contact.php:1
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:179
+msgid "Your request has been submitted successfully."
+msgstr ""
+
+#: templates/author/author-content.php:1 templates/single-listing.php:56
+msgid "About Me"
+msgstr ""
+
+#: templates/author/author-content.php:1
+msgid "My Listing"
+msgstr ""
+
+#: templates/author/author-content.php:1
+msgid "Contact"
+msgstr ""
+
+#: templates/author/author-content.php:1
+msgid "My Listings"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:53
+msgid "Doctor Detail"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:82
+msgid "Registered User"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:85
+msgid "Appointment Detail"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:87
+msgid "Type"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:91
+msgid "I am paying for myself"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:91
+msgid "MySelf"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:98
+msgid "Full Name"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:104
+msgid "Time"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:112 templates/dashboard/earnings.php:394
+msgid "Message"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:144
+msgid "Invoice Detail"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:147
+msgid "Invoice #"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:157
+msgid "Tax Price"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:172
+msgid "Payment Status"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:177
+msgid "Method"
+msgstr ""
+
+#: templates/dashboard/booking-detail.php:186
+msgid "No Appointment Selected"
+msgstr ""
+
+#: templates/dashboard/earnings.php:82
+msgid "Current Balance"
+msgstr ""
+
+#: templates/dashboard/earnings.php:86
+msgid "Your Current Balance Is Low."
+msgstr ""
+
+#: templates/dashboard/earnings.php:90
+msgid "Withdraw Now"
+msgstr ""
+
+#: templates/dashboard/earnings.php:111
+msgid "Total Withdrawals"
+msgstr ""
+
+#: templates/dashboard/earnings.php:118
+msgid "Transaction History"
+msgstr ""
+
+#: templates/dashboard/earnings.php:119
+msgid ""
+"You can sort the table content by clicking sort icon or use the filters to "
+"refine your Details"
+msgstr ""
+
+#: templates/dashboard/earnings.php:125 templates/sidebar-filter.php:116
+msgid "Filter"
+msgstr ""
+
+#: templates/dashboard/earnings.php:134
+msgid "Min Amount"
+msgstr ""
+
+#: templates/dashboard/earnings.php:138
+msgid "Max Amount"
+msgstr ""
+
+#: templates/dashboard/earnings.php:144
+msgid "From Date"
+msgstr ""
+
+#: templates/dashboard/earnings.php:148
+msgid "To Date"
+msgstr ""
+
+#: templates/dashboard/earnings.php:154
+msgid "Reset Filters"
+msgstr ""
+
+#: templates/dashboard/earnings.php:155
+msgid "Get Results"
+msgstr ""
+
+#: templates/dashboard/earnings.php:256
+msgid "Payout Setting"
+msgstr ""
+
+#: templates/dashboard/earnings.php:256
+msgid "Change"
+msgstr ""
+
+#: templates/dashboard/earnings.php:257
+msgid "Change Your Payout Method From Here."
+msgstr ""
+
+#: templates/dashboard/earnings.php:265
+msgid "Recent Withdrawals"
+msgstr ""
+
+#: templates/dashboard/earnings.php:277
+msgid "N/A"
+msgstr ""
+
+#: templates/dashboard/earnings.php:281 templates/dashboard/earnings.php:285
+msgid "Successful"
+msgstr ""
+
+#: templates/dashboard/earnings.php:300
+msgid "Withdrawal Amount"
+msgstr ""
+
+#: templates/dashboard/earnings.php:313 templates/dashboard/earnings.php:386
+msgid "Payout Method"
+msgstr ""
+
+#: templates/dashboard/earnings.php:367 templates/dashboard/earnings.php:371
+msgid "No Payout Method Configured."
+msgstr ""
+
+#: templates/dashboard/earnings.php:382
+msgid "Request for Withdrawal"
+msgstr ""
+
+#: templates/dashboard/earnings.php:383
+msgid "You can send a request to admin if you see any balance in your account"
+msgstr ""
+
+#: templates/dashboard/earnings.php:390
+msgid "Amount: ( Without "
+msgstr ""
+
+#: templates/dashboard/earnings.php:391
+msgid "50"
+msgstr ""
+
+#: templates/dashboard/earnings.php:395
+msgid "Enter Your Message For Website Admin."
+msgstr ""
+
+#: templates/dashboard/earnings.php:397
+msgid "Send Request"
+msgstr ""
+
+#: templates/dashboard/earnings.php:433
+msgid "Payout with Paypal"
+msgstr ""
+
+#: templates/dashboard/earnings.php:442
+msgid "Payout with Payoneer"
+msgstr ""
+
+#: templates/dashboard/earnings.php:451
+msgid "Payout with Stripe"
+msgstr ""
+
+#: templates/dashboard/earnings.php:460
+msgid "Payout with Bank"
+msgstr ""
+
+#: templates/dashboard/earnings.php:469
+msgid "Payout with Other method"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:50
+#: templates/dashboard/manage-booking.php:86
+msgid "All Appointments"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:52
+#: templates/dashboard/my-bookings.php:46
+msgid "Calendar"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:54
+#: templates/dashboard/my-bookings.php:47
+msgid "Calendar only displays the approved Appointments."
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:60
+msgid " Back To Appointments"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:77
+#: templates/dashboard/my-bookings.php:68
+msgid ""
+"  Appointments are pending approval. Pending Appointments will only show in "
+"calendar upon approval."
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:94
+#: templates/dashboard/my-bookings.php:84
+msgid "All"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:98
+#: templates/dashboard/my-bookings.php:87
+msgid "PENDING"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:102
+#: templates/dashboard/my-bookings.php:90
+msgid "APPROVED"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:106
+#: templates/dashboard/my-bookings.php:93
+msgid "CANCELED"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:110
+#: templates/dashboard/my-bookings.php:96
+msgid "Expired"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:118
+#: templates/dashboard/my-bookings.php:101
+msgid "CALENDAR"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:132
+#: templates/dashboard/manage-booking.php:160
+#: templates/dashboard/manage-booking.php:190
+#: templates/dashboard/manage-booking.php:220
+#: templates/dashboard/manage-booking.php:251
+#: templates/dashboard/my-bookings.php:142 templates/dashboard/my-bookings.php:172
+#: templates/dashboard/my-bookings.php:202 templates/dashboard/my-bookings.php:233
+msgid "CUSTOMER"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:133
+#: templates/dashboard/manage-booking.php:161
+#: templates/dashboard/manage-booking.php:191
+#: templates/dashboard/manage-booking.php:221
+#: templates/dashboard/manage-booking.php:252
+#: templates/dashboard/my-bookings.php:114 templates/dashboard/my-bookings.php:143
+#: templates/dashboard/my-bookings.php:173 templates/dashboard/my-bookings.php:203
+#: templates/dashboard/my-bookings.php:234
+msgid "LISTING"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:134
+#: templates/dashboard/manage-booking.php:162
+#: templates/dashboard/manage-booking.php:192
+#: templates/dashboard/manage-booking.php:222
+#: templates/dashboard/manage-booking.php:253
+#: templates/dashboard/my-bookings.php:116 templates/dashboard/my-bookings.php:144
+#: templates/dashboard/my-bookings.php:174 templates/dashboard/my-bookings.php:204
+#: templates/dashboard/my-bookings.php:235
+msgid "DATE"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:135
+#: templates/dashboard/manage-booking.php:163
+#: templates/dashboard/manage-booking.php:193
+#: templates/dashboard/manage-booking.php:223
+#: templates/dashboard/manage-booking.php:254
+#: templates/dashboard/my-bookings.php:117 templates/dashboard/my-bookings.php:145
+#: templates/dashboard/my-bookings.php:175 templates/dashboard/my-bookings.php:205
+#: templates/dashboard/my-bookings.php:236
+msgid "TIME"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:136
+#: templates/dashboard/manage-booking.php:164
+#: templates/dashboard/manage-booking.php:194
+#: templates/dashboard/manage-booking.php:224
+#: templates/dashboard/manage-booking.php:255
+#: templates/dashboard/my-bookings.php:118 templates/dashboard/my-bookings.php:146
+#: templates/dashboard/my-bookings.php:176 templates/dashboard/my-bookings.php:206
+#: templates/dashboard/my-bookings.php:237
+msgid "STATUS"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:137
+#: templates/dashboard/manage-booking.php:165
+#: templates/dashboard/manage-booking.php:195
+#: templates/dashboard/manage-booking.php:225
+#: templates/dashboard/manage-booking.php:256
+#: templates/dashboard/my-bookings.php:119 templates/dashboard/my-bookings.php:147
+#: templates/dashboard/my-bookings.php:177 templates/dashboard/my-bookings.php:207
+#: templates/dashboard/my-bookings.php:238
+msgid "ACTION"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:280
+#: templates/dashboard/my-bookings.php:261
+msgid ""
+"Appointments are pending approval. Pending appointments will only show in "
+"calendar upon approval."
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:288
+#: templates/dashboard/manage-booking.php:294
+msgid "Details"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:298
+msgid "Settings"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:326
+msgid "15 Minutes"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:329
+msgid "30 Minutes"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:332
+msgid "45 Minutes"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:335
+msgid "60 Minutes"
+msgstr ""
+
+#: templates/dashboard/manage-booking.php:338
+msgid "90 Minutes"
+msgstr ""
+
+#: templates/dashboard/my-bookings.php:44 templates/dashboard/my-bookings.php:77
+msgid "My Bookings"
+msgstr ""
+
+#: templates/dashboard/my-bookings.php:52
+msgid " Back To Bookings"
+msgstr ""
+
+#: templates/headers/banner-sidesearch-1.php:1
+#, php-format
+msgid "%s+ Doctors are available just for you."
+msgstr ""
+
+#: templates/headers/banner-sidesearch-1.php:1
+msgid "Certified Doctors"
+msgstr ""
+
+#: templates/headers/banner-sidesearch-1.php:1
+msgid "# 1 Best Rated Medical Directory in USA and Canada."
+msgstr ""
+
+#: templates/headers/mp-bottom-search.php:123 templates/sidebar-filter.php:523
+#: templates/sidebar-filter.php:702
+msgid "All Categories"
+msgstr ""
+
+#: templates/headers/mp-bottom-search.php:181
+msgid "Keyword"
+msgstr ""
+
+#: templates/headers/mp-bottom-search.php:188
+#: templates/headers/mp-bottom-search.php:207
+msgid "More results for"
+msgstr ""
+
+#: templates/headers/mp-bottom-search.php:199
+msgid "What"
+msgstr ""
+
+#: templates/headers/mp-bottom-search.php:281
+#: templates/headers/mp-bottom-search.php:305
+msgid "Where"
+msgstr ""
+
+#: templates/headers/mp-bottom-search.php:362
+msgid "Find my doctor"
+msgstr ""
+
+#: templates/headers/mp-header-style-1.php:70
+#: templates/headers/mp-header-style-1.php:152
+msgid "Add Listing"
+msgstr ""
+
+#: templates/headers/mp-header-style-1.php:89
+msgid "Sign out "
+msgstr ""
+
+#: templates/hospital/doctor-loop-content.php:61
+#: templates/loop/appview-grid.php:140 templates/loop/loop2-list.php:59
+#: templates/loop/loop2.php:62
+msgid "Claimed"
+msgstr ""
+
+#: templates/hospital/doctor-loop-content.php:100
+#: templates/hospital/doctor-loop-content.php:111
+#: templates/hospital/doctor-loop-content.php:127
+#: templates/hospital/doctor-loop-content.php:133
+#: templates/loop/loop2-list.php:100 templates/loop/loop2-list.php:111
+#: templates/loop/loop2-list.php:127 templates/loop/loop2-list.php:133
+msgid "https://via.placeholder.com/86x124"
+msgstr ""
+
+#: templates/hospital/doctor-loop-content.php:265
+#: templates/loop/loop2-list.php:264 templates/loop/loop2.php:234
+msgid "Available Today"
+msgstr ""
+
+#: templates/hospital/doctor-loop-content.php:270
+#: templates/loop/loop2-list.php:269 templates/loop/loop2.php:241
+msgid "Book Appoinment"
+msgstr ""
+
+#: templates/hospital/doctor-timings.php:14
+#: templates/hospital/doctor-timings.php:19
+#: templates/hospital/doctor-timings.php:41
+#: templates/single-list/listing-details-style1/content/hospitals.php:32
+#: templates/single-list/listing-details-style1/content/hospitals.php:37
+#: templates/single-list/listing-details-style1/content/hospitals.php:68
+msgid "Closed"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:176
+msgid "Results"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:178
+msgid "Result"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:245
+#: templates/listing-with-sidebar-filters.php:258
+#: templates/listing-with-sidebar-filters.php:268 templates/sidebar-filter.php:49
+#: templates/sidebar-filter.php:56 templates/sidebar-filter.php:64
+msgid "Results For"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:285
+#: templates/listing-with-sidebar-filters.php:299
+#: templates/listing-with-sidebar-filters.php:302 templates/sidebar-filter.php:74
+#: templates/sidebar-filter.php:82 templates/sidebar-filter.php:85
+msgid "In "
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:327
+msgid "Recent Listings"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:429 templates/sidebar-filter.php:281
+msgid "Sort By"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:431 templates/sidebar-filter.php:285
+msgid "Most Reviewed"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:437 templates/sidebar-filter.php:300
+msgid "Most Viewed"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:440 templates/sidebar-filter.php:346
+msgid "Open Now"
+msgstr ""
+
+#: templates/listing-with-sidebar-filters.php:503
+#: templates/listing-with-sidebar-filters.php:533
+msgid "Try changing your search filters or"
+msgstr ""
+
+#: templates/loop/appview-grid.php:248 templates/loop/appview-grid.php:272
+msgid "https://via.placeholder.com/272x300"
+msgstr ""
+
+#: templates/loop/appview-grid.php:306 templates/loop/appview-grid.php:326
+msgid "https://via.placeholder.com/63x63"
+msgstr ""
+
+#: templates/loop/appview-grid.php:338
+#: templates/single-list/listing-details-style1/content/title-bar.php:237
+msgid "Saved"
+msgstr ""
+
+#: templates/loop/appview-grid.php:384
+msgid "Rating"
+msgstr ""
+
+#: templates/loop/appview-grid.php:388 templates/single-listing.php:62
+msgid "Ratings"
+msgstr ""
+
+#: templates/loop/booking.php:59
+msgid "Pay"
+msgstr ""
+
+#: templates/loop/booking.php:66 templates/loop/booking.php:80
+msgid "CANCEL"
+msgstr ""
+
+#: templates/loop/booking.php:77
+msgid "APPROVE"
+msgstr ""
+
+#: templates/loop/loop2.php:102 templates/loop/loop2.php:113
+#: templates/loop/loop2.php:129 templates/loop/loop2.php:135
+msgid "https://via.placeholder.com/78x78"
+msgstr ""
+
+#: templates/sidebar-filter.php:93
+msgid "Most recent "
+msgstr ""
+
+#: templates/sidebar-filter.php:138
+msgid "Specialty"
+msgstr ""
+
+#: templates/sidebar-filter.php:250
+msgid "Ultra High End"
+msgstr ""
+
+#: templates/sidebar-filter.php:290
+msgid "Click To See Your Most Reviewed"
+msgstr ""
+
+#: templates/sidebar-filter.php:305
+msgid "Click To See Your Most Viewed"
+msgstr ""
+
+#: templates/sidebar-filter.php:320
+msgid "Click To See Your Highest Rated"
+msgstr ""
+
+#: templates/sidebar-filter.php:331
+msgid "Best Match"
+msgstr ""
+
+#: templates/sidebar-filter.php:336
+msgid "Click To See Your Best Match"
+msgstr ""
+
+#: templates/sidebar-filter.php:351
+msgid "Click To See What Open Now"
+msgstr ""
+
+#: templates/sidebar-filter.php:359
+msgid "Coupons"
+msgstr ""
+
+#: templates/sidebar-filter.php:364
+msgid "Click To See Listing With Coupons"
+msgstr ""
+
+#: templates/sidebar-filter.php:385
+msgid "Near Me"
+msgstr ""
+
+#: templates/sidebar-filter.php:390
+msgid "Click To GET"
+msgstr ""
+
+#: templates/sidebar-filter.php:421 templates/sidebar-filter.php:465
+msgid "New Location"
+msgstr ""
+
+#: templates/sidebar-filter.php:425 templates/sidebar-filter.php:470
+msgid "Enter a location"
+msgstr ""
+
+#: templates/sidebar-filter.php:448
+msgid "Distance"
+msgstr ""
+
+#: templates/sidebar-filter.php:490
+msgid "See Filters"
+msgstr ""
+
+#: templates/sidebar-filter.php:508
+msgid "More Filters"
+msgstr ""
+
+#: templates/sidebar-filter.php:653
+msgid "Doctor By Feature's"
+msgstr ""
+
+#: templates/sidebar-filter.php:840
+msgid "By Consultation"
+msgstr ""
+
+#: templates/sidebar-filter.php:867
+msgid "By Hospital Name"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/claim.php:26
+#: templates/single-list/listing-details-style1/claim.php:32
+msgid "Claim This Profile !"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/awards.php:7
+msgid "Awards and Recognition"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/faqs.php:10
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/faqs.php:29
+msgid "Q:"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/faqs.php:38
+msgid "A:"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/features.php:7
+msgid "At Galance"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/gallery.php:39
+msgid "More Photos"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/hospitals.php:88
+#: templates/single-list/listing-details-style1/sidebar/booking.php:127
+#: templates/single-list/listing-details-style1/sidebar/booking.php:178
+msgid "(For Video Consultation)"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/hospitals.php:113
+msgid "Get Direction"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/hospitals.php:138
+msgid "Book Appointment"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/hospitals.php:148
+msgid "View More"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/hospitals.php:148
+msgid "View Less"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/insurances.php:7
+msgid "Accepted Insurances"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/insurances.php:48
+msgid "View All Insurances"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/review_form.php:8
+msgid "Rate us and Write a Review"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/reviews.php:4
+msgid "Patient Experiences"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/title-bar.php:174
+msgid "Taking New Patient"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/title-bar.php:195
+msgid "Read Less"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/title-bar.php:239
+msgid "Save"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/content/title-bar.php:249
+msgid "Share Your Experience"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:36
+msgid "Book an Appointment"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:62
+msgid "Select Place"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:72
+#: templates/single-list/listing-details-style1/sidebar/booking.php:74
+msgid "Select Insurance Plan"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:82
+msgid "Select Date & Slot"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:100
+msgid "Continue Booking"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:122
+msgid "Switch to"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:127
+#: templates/single-list/listing-details-style1/sidebar/booking.php:178
+msgid "TAX-EXCLUSIVE"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:143
+msgid "Selected Date"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:147
+msgid "Selected Time"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:151
+msgid "Selected Insurance Plan"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:157
+msgid "First Name"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:161
+msgid "Last Name"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:174
+msgid "Submit"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:195
+msgid "Your appointment booking has been requested"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:196
+msgid "Redirecting To Checkout Please Wait..."
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:197
+msgid ""
+"One of our staff will reach you shortly kindly check mailbox for confirmation"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/booking.php:200
+msgid "Book another Appointment"
+msgstr ""
+
+#: templates/single-list/listing-details-style1/sidebar/lead-form.php:98
+msgid "Contact with doctor"
+msgstr ""
+
+#: templates/single-listing.php:50
+msgid "Locations"
+msgstr ""
+
+#: templates/single-listing.php:59
+msgid "FAQ's"
+msgstr ""

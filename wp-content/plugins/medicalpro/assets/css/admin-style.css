@@ -1,0 +1,423 @@
+.redux-container .ui-buttonset .ui-button span.ui-checkboxradio-icon.ui-corner-all.ui-icon.ui-icon-background.ui-icon-blank {
+    display: none;
+}
+.medicalpro-term-gallery-field{
+    position: relative;
+    margin: 0;
+}
+.medicalpro-term-gallery-field .term-gallery{
+    width: 100%;
+    margin-bottom: 10px;
+}
+label.vc_checkbox-label {
+    width: calc((100% / 4) - 5px);
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 5px;
+}
+.medicalpro-term-gallery-field .term-gallery-list {
+    margin: 0px;
+    margin-left: -12px;
+}
+.medicalpro-term-gallery-field .term-gallery-list .gallery-item {
+    width: 20.8%;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    position: relative;
+}
+.medicalpro-term-gallery-field .term-gallery-list .gallery-item .thumbnail img {
+    width: 100%;
+    height: auto;
+}
+.medicalpro-term-gallery-field .gallery-item .gallery-actions {
+    position: absolute;
+    top: -15%;
+    left: 89%;
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    background-color: #191E23;
+    
+}
+.medicalpro-term-gallery-field .gallery-item .gallery-actions a {
+    color: red;
+}
+.medicalpro-term-gallery-field{
+    margin-bottom: 30px;
+}
+.wp-core-ui .form-field select {
+    width: 95%;
+}
+.business-logo-holder a.button{
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+div.form-field .business-logo-holder a.button{
+    margin-top: 27px;
+}
+.business-logo-holder a.button,
+.business-logo-holder .business-logo-image{
+    display: inline-block;
+}
+.business-logo-holder .business-logo-image{
+    width: 20%;
+    position: relative;
+}
+.business-logo-holder .business-logo-image img{
+    width: 100%;
+}
+.business-logo-holder .remove-business-logo{
+    position: absolute;
+    top: -10%;
+    left: 89%;
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    background-color: #191E23;
+    color: #FF0000;
+}
+.lp_single_withdrawal_status {
+    display: inline-block;
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+    letter-spacing: 1px;
+}
+.lp_single_withdrawal_status.lp_single_withdrawal_status_unpaid {
+    background: #cecece;
+    color: #000;
+}
+.lp_single_withdrawal_status.lp_single_withdrawal_status_paid {
+    background: #00ff7f;
+    color: #000;
+}
+.lp_single_withdrawal_status.lp_single_withdrawal_status_rejected {
+    background: #FF0000;
+    color: #fff;
+}
+.lp_withdrawal_action_btn {
+    height: 30px;
+    background: #53c8f7;
+    border: 0;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+.lp_withdrawal_action_modal_container {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background: #00000066;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+    cursor: pointer;
+    display: none;
+}
+.lp_withdrawal_action_modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 50%;
+    min-height: 30%;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 7px 5px 1px #00000022;
+    padding: 15px;
+    cursor: auto;
+}
+.lp_withdrawal_action_modal_content_detail {
+    max-width: 100%;
+    height: 200px;
+    background: #cccccc44;
+    color: #000;
+    padding: 15px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-bottom: 20px !important;
+}
+.lp_withdrawal_action_modal_payout_detail {
+    max-width: 100%;
+    height: 100px;
+    background: #cccccc44;
+    color: #000;
+    padding: 15px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-bottom: 20px !important;
+}
+.lp_withdrawal_action_modal_content_title {
+    padding: 0 !important;
+    margin-bottom: 20px !important;
+    text-transform: capitalize;
+}
+.lp_withdrawal_action_modal_content_detail_input {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+}
+.lp_withdrawal_action_modal_content_detail_input label {
+    display: block;
+    margin-bottom: 5px;
+    cursor: auto;
+}
+.lp_withdrawal_action_modal_content_detail_input input {
+    display: block;
+    width: 100%;
+    background: #cccccc44;
+    color: #000;
+    height: 30px;
+    border: none;
+    box-shadow: none;
+}
+.lp_withdrawal_action_modal_confirm {
+    width: calc(70% - 15px);
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background: #03A9F4;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-right: 10px;
+    display: inline-block;
+}
+.lp_withdrawal_action_modal_reject {
+    width: 30%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background: #FF0000;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+li#menu-posts-medicalpro-bookings {
+    background: #00578f;
+}
+
+
+
+/*Earnings*/
+.lp_mp_earnings_dashboard_total_bookings {
+    background: #FFFFFF 0 0 no-repeat padding-box;
+    box-shadow: 0 12px 28px #00000003;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    padding: 20px;
+}
+.lp_mp_earnings_dashboard_total_bookings h3 {
+    text-align: left;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #2C3E50;
+    margin: 0;
+    margin-bottom: 12px;
+}
+.lp_mp_earnings_dashboard_total_bookings p {
+    text-align: left;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: #32323277;
+    margin: 0;
+    margin-bottom: 12px;
+}
+.lp_mp_earnings_dashboard_total_bookings h1 {
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 31px;
+    line-height: 31px;
+    color: #2C3E50;
+    background: #F8F9F9 0 0 no-repeat padding-box;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 0;
+    margin-bottom: 12px;
+}
+.lp_mp_earnings_dashboard_total_bookings a {
+    display: block;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: #FFFFFF;
+}
+.lp_mp_earnings_dashboard_total_bookings button {
+    background: #3A377E 0 0 no-repeat padding-box;
+    box-shadow: 0 12px 16px #00000005;
+    border-radius: 5px;
+    padding: 12px 25px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: #FFFFFF;
+    border: 0;
+}
+.lp_mp_earnings_dashboard_cards_container {
+    clear: both;
+    margin-bottom: 20px;
+}
+.lp_mp_earnings_dashboard_avaliable_balance {
+    background: #FFC266 0 0 no-repeat padding-box;
+    box-shadow: 0 12px 33px #FFC2664D;
+    border-radius: 12px;
+    padding: 20px;
+}
+.lp_mp_earnings_dashboard_total_earnings {
+    background: #26D49B 0 0 no-repeat padding-box;
+    box-shadow: 0 12px 33px #35D13A4D;
+    border-radius: 12px;
+    padding: 20px;
+}
+.lp_mp_earnings_dashboard_total_withdrawls {
+    background: #2488FF 0 0 no-repeat padding-box;
+    box-shadow: 0 12px 34px #2A96CE4D;
+    border-radius: 12px;
+    padding: 20px;
+}
+.lp_mp_earnings_dashboard_card_icon {
+    width: 45px;
+    height: 44px;
+    line-height: 54px;
+    text-align: center;
+    background: #FFFFFF 0 0 no-repeat padding-box;
+    box-shadow: 0 12px 16px #0000001A;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+.lp_mp_earnings_dashboard_card_icon svg {
+    width: 22px;
+    height: 22px;
+}
+.lp_mp_earnings_dashboard_card {
+    margin-bottom: 25px;
+}
+.lp_mp_earnings_dashboard_total_booking_container .row {
+    margin-left: -15px;
+    margin-right: -15px;
+    clear: both;
+}
+.lp_mp_earnings_dashboard_total_booking_container .col-md-4 {
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+    width: calc((100% / 3) - 30px);
+}
+.lp_mp_earnings_dashboard_avaliable_balance .lp_mp_earnings_dashboard_card_icon svg {
+    fill: #FFC266;
+}
+.lp_mp_earnings_dashboard_total_earnings .lp_mp_earnings_dashboard_card_icon svg {
+    fill: #26D49B;
+}
+.lp_mp_earnings_dashboard_total_withdrawls .lp_mp_earnings_dashboard_card_icon svg {
+    fill: #2488FF;
+}
+
+.lp_mp_earnings_dashboard_card h3 {
+    text-align: left;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+.lp_mp_earnings_dashboard_card h2 {
+    text-align: left;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.lp_mp_earnings_dashboard_invoices h3 {
+    text-align: left;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: bold;
+    color: #323232;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+
+
+
+.medpro-activation-wrap{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    background-color: #0009;
+    z-index: 999999;
+    display: none;
+}
+.medpro-activation-wrap-inner {
+    position: absolute;
+    width: 800px;
+    height: 240px;
+    background-color: #fff;
+    left: 50%;
+    margin-left: -400px;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+.key-enter-bar-medpro{
+    width: 70%;
+    margin-top: 30px;
+}
+.colose-activation-popup{
+    float: right;
+    color: #fff;
+    background-color: red;
+    display: inline-block;
+    padding: 10px;
+    margin-top: -5px;
+    border-radius: 50%;
+    width: 20px;
+    cursor: pointer;
+}
+label[for="admedproOpt"] {
+    padding: 25px !important;
+}
+label[for="admedproOpt"] img{
+    max-width: 100px;
+    margin-left: 40px;
+    float: none !important;
+}
+span.mp_suggested_have_result {
+    position: relative;
+}
+span.mp_suggested_have_result:after {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #f00;
+    border-radius: 50%;
+    right: -100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
